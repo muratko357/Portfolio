@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Data Science Portfolio - Murat Koçak
+This Portfolio is a compilation of all the Data Science and Machine Learning projects I have done for learning. It also contains my skills and certificates and is being updated on the regular basis.
 
-You can use the [editor on GitHub](https://github.com/deregenboogm/deregenboogm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- **Email:** deregenboog.m@gmail.com
+- **LinkedIn:** [linkedin.com/in/murat-kocak-3b9938195](https://www.linkedin.com/in/murat-kocak-3b9938195/)
+- **Published studies:** [independentresearcher.academia.edu/MuratKocak](https://independentresearcher.academia.edu/MuratKocak)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
+**[COVID-19 MONITORING PROCEJECT-PART II: AUTOMATIC WEB-SCRAPING AND TEXT SUMMARIZATION](https://github.com/deregenboogm/NLP_coronavirus_project)**
+The project, being a capstone team project, was submitted to DEEPLO AI in partial fulfillment of the requirements for the graduation of Data Science & Machine Learning Course. I have completed the part II of the project and created an automatic web-scraping and text summarization tool through using Natural Language Processing(NLP) techniques, the Python Programming language and related libraries. The tool collects and processes qualitative data about COVID-19 from publicly available sources in order to provide advice for public and enable them to easily follow news and important issues around the pandemic (for the whole project, see [humanitariandata.co](https://humanitariandata.co/))
 
-### Markdown
+<br />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Second**
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deregenboogm/deregenboogm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
