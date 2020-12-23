@@ -22,6 +22,10 @@ I have learned the You Only Look Once-YOLO model and apply it to car detection o
 
 I have implemented the triplet loss function, using a pretrained model to map face images into 128-dimensional encodings and using these encodings to perform face verification and recognition tasks. Face Verification is used in applications to verify the identity of a specific person, e.g., face-verification security-systems of smart phones, while Face Recognition can tell who this person is through searching databases. 
 #
+<img align="left" width="250" height="150" src="Images/LendingClub project.png">**[LendingClub Project - Course assignment](https://github.com/deregenboogm/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)**
+
+Via data visualization, I have conducted an exploratory data analysis on the loan data of LendingClub. Then I have applied Random Forest and Decision Tree models of machine learning to predict whether a particular loan would be paid back in full. The model has included variables related to the customer, e.g., whether the borrower meets the credit underwriting criteria of LendingClub.com, purpose of the loan, interest rate of the loan, monthly installments owed by the borrower if the loan is funded, income of the borrower, debt-to-income ratio, FICO credit score of the borrower, number of days the borrower has had a credit line, and so on. 
+#
 ## Certificates
 - **[Data Science & Machine Learning - Deeplo AI](https://www.deeploai.com/)**
 - **[Deep Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
