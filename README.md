@@ -9,6 +9,7 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 <img align="left" width="250" height="150" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Monitoring Project-Part II: Automatic Web-Scraping And Text Summarization -Capstone group project](https://github.com/deregenboogm/NLP_coronavirus_project)**
 
 In partial fulfillment of the requirements for the graduation of Data Science & Machine Learning Course, I have completed the part II of the project and created an automatic web-scraping and text summarization tool through using Natural Language Processing(NLP) techniques, the Python Programming language and related libraries. The tool collects and processes some official reports and statements about COVID-19 from publicly available sources and summarizes them. In addition, it gives summaries of news provided by news web-sites and automatically and daily updates all these outputs. The goal of the tool is to provide advice for public and enable them to easily follow news and important issues around the pandemic (for the whole project, see [humanitariandata.co](https://humanitariandata.co/))
+
 #
 <img align="left" width="250" height="150" src="Images/generated_image.jpg"> **[Art Generation with Neural Style Transfer - Course assignment](https://github.com/deregenboogm/Building_Convolutional_Neural_Networks/blob/master/Art_Generation_with_Neural_Style_Transfe.ipynb)**
 
