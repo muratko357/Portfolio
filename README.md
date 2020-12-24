@@ -26,6 +26,10 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 
 Via data visualization, I have conducted an exploratory data analysis on the loan data of LendingClub. Then I have applied Random Forest and Decision Tree models of machine learning to predict whether a particular loan would be paid back in full. The model has included variables related to the customer, e.g., whether the borrower meets the credit underwriting criteria of LendingClub.com, purpose of the loan, interest rate of the loan, monthly installments owed by the borrower if the loan is funded, income of the borrower, debt-to-income ratio, FICO credit score of the borrower, number of days the borrower has had a credit line, and so on.
 
+<img align="left" width="250" height="150" src="Images/banknote-authentication.jpeg">**[Bank Note Authentication](https://github.com/muratko357/ML_models/blob/master/Tensorflow_DNNClasssifier.ipynb)**
+
+I have used the [Bank Authentication Data Set of UCI](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) and a Deep Neural Network Classifier to predict if a Bank Note is authentic or not. The data consists of 5 varibales: variance of Wavelet Transformed image (continuous), skewness of Wavelet Transformed image (continuous), curtosis of Wavelet Transformed image (continuous), entropy of image (continuous), and class (integer) indicating whether or not a Bank Note was authentic. 
+
 ## Core Competencies
 - **Methodologies**: Research Methods in Social Sciences, Statistics, Machine Learning, Deep Learning, Natural Language Processing
 - **Languages**: Python, SQL
