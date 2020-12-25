@@ -6,10 +6,6 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 - **Published studies:** [independentresearcher.academia.edu/MuratKocak](https://independentresearcher.academia.edu/MuratKocak)
 
 ## Projects
-<img align="left" width="250" height="150" src="Images/rain.jpg"> **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)**
-
-I have built a machine-learning classification model to make a prediction for the weather, whether it rains or not tomorrow. I have worked with the data from Australia in order to run the model and get results. I have checked accuracy scores and computation time of various models to find the best model that fits the data, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine.
-
 <img align="left" width="250" height="150" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Monitoring Project-Part II: Automatic Web-Scraping And Text Summarization (group project)](https://github.com/muratko357/NLP_coronavirus_project)**
 
 In partial fulfillment of the requirements for the graduation of Data Science & Machine Learning Course, I have completed the part II of the project and created an automatic web-scraping and text summarization tool through using Natural Language Processing(NLP) techniques, the Python Programming language and related libraries. The tool collects and processes some official reports and statements about COVID-19 from publicly available sources and summarizes them. In addition, it gives summaries of news provided by news web-sites and automatically and daily updates all these outputs. The goal of the tool is to provide advice for public and enable them to easily follow news and important issues around the pandemic (for the whole project, see [humanitariandata.co](https://humanitariandata.co/))
@@ -33,6 +29,10 @@ Via data visualization, I have conducted an exploratory data analysis on the loa
 <img align="left" width="250" height="150" src="Images/banknote-authentication.jpeg">**[Bank Note Authentication](https://github.com/muratko357/ML_models/blob/master/banknote-authentication.ipynb)**
 
 I have used the [Bank Authentication Data Set of UCI](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) and a Deep Neural Network Classifier to predict if a Bank Note is authentic or not. The data consists of 5 varibales: variance of Wavelet Transformed image (continuous), skewness of Wavelet Transformed image (continuous), curtosis of Wavelet Transformed image (continuous), entropy of image (continuous), and class (integer) indicating whether or not a Bank Note was authentic. 
+
+<img align="left" width="250" height="150" src="Images/rain.jpg"> **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)**
+
+I have built a machine-learning classification model to make a prediction for the weather, whether it rains or not tomorrow. I have worked with the data from Australia in order to run the model and get results. I have checked accuracy scores and computation time of various models to find the best model that fits the data, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine.
 
 ## Core Competencies
 - **Methodologies**: Research Methods in Social Sciences, Statistics, Machine Learning, Deep Learning, Natural Language Processing
