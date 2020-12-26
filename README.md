@@ -8,7 +8,7 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 ## Projects
 <img align="left" width="250" height="150" src="Images/Uber data analysis.png"> **[Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis/blob/main/Uber_data_anaylsis.ipynb)**
 
-Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information based on the geographic location and the time of the calls. 
+Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information based on the geographic location and the time of the calls.
 
 <img align="left" width="250" height="150" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Monitoring Project-Part II: Automatic Web-Scraping And Text Summarization (group project)](https://github.com/muratko357/NLP_coronavirus_project)**
 
