@@ -37,13 +37,12 @@ I have built a machine-learning classification model to make a prediction for th
 
 <img align="left" width="250" height="150" src="Images/Uber data analysis.png"> **[Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis/blob/main/Uber_data_anaylsis.ipynb)**
 
-Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information based on the geographic location and the time of the calls.
-
+Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information based on the geographic location and the time of the calls.                               
 
 <img align="left" width="250" height="150" src="Images/San Francisco Crime Map.png"> **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
-I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city. 
-#
+I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.                                                   
+
 ## Core Competencies
 - **Methodologies**: Research Methods in Social Sciences, Statistics, Machine Learning, Deep Learning, Natural Language Processing
 - **Languages**: Python, SQL
