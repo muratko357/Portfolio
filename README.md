@@ -15,9 +15,9 @@ In partial fulfillment of the requirements for the graduation of Data Science & 
 
 I have implemented the Neural Style Transfer(NST) NST algoritm to generate a novel artistic image of the Louvre museum in Paris in the style of a painting by Claude Monet. The algoritm uses a previously trained 19-layer version of the VGG network. Therefore, the network model has already been trained on the very large ImageNet database, and thus has learned to recognize a variety of low level features (at the shallower layers) and high level features (at the deeper layers). The algoritm of this project has successfully transferred this learning for the puropose of this project.
 
-<img align="left" width="250" height="140" src="Images/car detection.png"> **[Car Detection for Autonomous Driving Application](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Autonomous_driving_application_Car_detection.ipynb)**
+<img align="left" width="250" height="150" src="Images/car detection.png"> **[Car Detection for Autonomous Driving Application](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Autonomous_driving_application_Car_detection.ipynb)**
 
-I have learned the You Only Look Once-YOLO model and apply it to car detection on a car detection dataset. Because the YOLO model is very computationally expensive to train, the project uses pre-trained weights. YOLO is a popular algorithm with its high accuracy and being able to run in real-time as it requires only one forward propagation pass through the network to make predictions.
+I have applied the You Only Look Once-YOLO model to car detection on a car detection dataset. The project uses pre-trained weights since the YOLO model is very computationally expensive to train. ON the other hand, YOLO is a popular algorithm with its high accuracy and being able to run in real-time as it requires only one forward propagation pass through the network to make predictions.
 
 <img align="left" width="250" height="140" src="Images/distance_kiank.png"> **[Face Verification & Face Recognition](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)**
 
