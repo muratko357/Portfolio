@@ -59,11 +59,11 @@ I have conducted an exploratory data analysis on the 2016 crime dataset of San F
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
 
     By DeepLearning.AI in 2020
-    - **[Structuring Machine Learning Projects - 2 weeks study](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)**
-    - **[Convolutional Neural Networks - 4 weeks study](https://www.coursera.org/account/accomplishments/verify/SPT2V28H3WHH)**  
-    - **[Sequence Models - 3 weeks study](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)**
-    - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - 3 weeks study](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)**   
-    - **[Neural Networks and Deep Learning - 4 weeeks study](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**    
+    - **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)** - 2 weeks study
+    - **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/SPT2V28H3WHH)** - 4 weeks study 
+    - **[Sequence Models](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)** - 3 weeks study
+    - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)** - 3 weeks study  
+    - **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**  - 4 weeeks study  
 - **[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/verify/YWZM6PRRCXQ4)**
 
     By University of Michigan, 4 weeks study in 2020
