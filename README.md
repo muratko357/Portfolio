@@ -57,6 +57,7 @@ I have conducted an exploratory data analysis on the 2016 crime dataset of San F
 
   By Deeplo AI, 10 months tranining between 2019-2020 
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
+
     By DeepLearning.AI in 2020
     - **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)**
     
