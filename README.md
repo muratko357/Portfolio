@@ -53,16 +53,36 @@ I have conducted an exploratory data analysis on the 2016 crime dataset of San F
 - **Languages**: Python, SQL
 
 ## Certificates
-- **[Data Science & Machine Learning - Deeplo AI](https://www.deeploai.com/)**
+- **[Data Science & Machine Learning](https://www.deeploai.com/)**
 
-10 months tranining between 2019-2020
-- **[Deep Learning Specialization - DeepLearning.AI in 2020:](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
-    - **[Structuring Machine Learning Projects, 2 weeks study](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)**
-    - **[Convolutional Neural Networks, 4 weeks study](https://www.coursera.org/account/accomplishments/verify/SPT2V28H3WHH)**
-    - **[Sequence Models, 3 weeks study](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)**
-    - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, 3 weeks study](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)**
-    - **[Neural Networks and Deep Learning, 4 weeeks study](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**
-- **[Fitting Statistical Models to Data with Python - University of Michigan, 4 weeks study in 2020](https://www.coursera.org/account/accomplishments/verify/YWZM6PRRCXQ4)**
-- **[Using Databases with Python - University of Michigan, 5 weeks study in 2019](https://www.coursera.org/account/accomplishments/verify/48KHKNJ8CNTW)**
-- **[SQL for Data Science - University of California, Davis, 4 weeks study in 2019](https://www.coursera.org/account/accomplishments/verify/RCS4MAWPR3KC)**
-- **[Excel Skills for Business: Essentials - Macquarie University, 6 weeks study in 2020](https://www.coursera.org/account/accomplishments/verify/XLKY7NR5MHNR)**
+  By Deeplo AI, 10 months tranining between 2019-2020 
+- **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
+    By DeepLearning.AI in 2020
+    - **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)**
+    
+        2 weeks study
+    - **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/SPT2V28H3WHH)**
+    
+        4 weeks study
+    - **[Sequence Models](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)**
+    
+        3 weeks study
+    - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)**
+    
+        3 weeks study
+    - **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**
+    
+        4 weeeks study
+- **[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/verify/YWZM6PRRCXQ4)**
+
+    By University of Michigan, 4 weeks study in 2020
+- **[Using Databases with Python](https://www.coursera.org/account/accomplishments/verify/48KHKNJ8CNTW)**
+
+    By University of Michigan, 5 weeks study in 2019    
+- **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/RCS4MAWPR3KC)**
+
+    By University of California, Davis, 4 weeks study in 2019
+- **[Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/XLKY7NR5MHNR)**
+
+    By Macquarie University, 6 weeks study in 2020
+
