@@ -7,6 +7,10 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 ## Projects
 
+<img align="left" width="250" height="150" src="Images/NL_crime_rates.png"> **[Netherlands Crime Analysis](https://github.com/muratko357/Netherlands-Crime-Analysis)**
+
+The study conducts an exploratory data analysis on Violent and Sexual Crime rates-VSC (per 1000 inhabitants) by municipality in the Netherlands. The data is sourced by Statistics Netherlands under the name of "Registered crimes: districts and neighborhoods 2018," The analyis produces a table for top 20 municipalities with the highest VSC rates and a thematic map of the Netherlands displaying the municipilaties and coloring them based on thier crime rates, which enables to make comparison among them.
+
 <img align="left" width="250" height="150" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Monitoring Project-Part II: Automatic Web-Scraping And Text Summarization (group project)](https://github.com/muratko357/NLP_coronavirus_project)**
 
 In partial fulfillment of the requirements for the graduation of Data Science & Machine Learning Course, I have completed the part II of the project and created an automatic web-scraping and text summarization tool through using Natural Language Processing(NLP) techniques. The tool collects and processes some official reports and statements about COVID-19 from publicly available sources and summarizes them. In addition, it collects summaries of news and daily updates all these outputs. The goal of the tool is to enable public to easily follow official advices, reports, and news around the pandemic (for the whole project, see [humanitariandata.co](https://humanitariandata.co/)).
