@@ -39,7 +39,7 @@ I have used the [Bank Authentication Data Set of UCI](https://archive.ics.uci.ed
 
 I have built a machine-learning classification model to make a prediction for the weather, whether it rains or not tomorrow. I have worked with the data from Australia in order to run the model and get results. I have checked accuracy scores and computation time of various models to find the best model that fits the data, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine.
 
-<img align="left" width="250" height="140" src="Images/Uber.png"> **[New York Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis/blob/main/Uber_data_anaylsis.ipynb)**
+<img align="left" width="250" height="140" src="Images/Uber.png"> **[New York Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
 
 Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information for the business and drivers based on the geographic location and the time of the calls.
 
