@@ -9,7 +9,7 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 <img align="left" width="250" height="160" src="Images/NL_crime_rates.png"> **[Netherlands Crime Analysis](https://github.com/muratko357/Netherlands-Crime-Analysis)**
 
-The study conducts an exploratory data analysis on Violent and Sexual Crime rates-VSC (per 1000 inhabitants) by municipality in the Netherlands. The data is sourced by Statistics Netherlands and published under the name of "Registered crimes: districts and neighborhoods 2018," This analyis produces a table for top 20 municipalities with the highest VSC rates and a thematic map of the Netherlands displaying the municipilaties and coloring them based on thier crime rates, which enables to make comparisons among them.
+The study conducts an exploratory analysis on Violent and Sexual Crime rates-VSC (per 1000 inhabitants) by municipality in the Netherlands. The data is sourced from the Centraal Bureau voor de Statistiek (The Hague / Heerlen) under the name of "Registered crimes: districts and neighborhoods 2018 and can be accessed from https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84468NED/table. This analyis produces a table for the top municipalities with the highest VSC rates and a thematic map of the Netherlands displaying the municipilaties and coloring them based on their crime rates to make comparison among them.
 
 <img align="left" width="250" height="150" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Monitoring Project-Part II: Automatic Web-Scraping And Text Summarization (group project)](https://github.com/muratko357/NLP_coronavirus_project)**
 
