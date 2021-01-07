@@ -1,8 +1,8 @@
 # Data Science Portfolio - Murat Koçak
 This Portfolio is a compilation of the Data Science and Machine Learning projects I have done for learning. It also contains my core competencies and certificates and is being updated on regular basis.
 
-- **Email:** deregenboog.m@gmail.com
-- **LinkedIn:** [linkedin.com/in/murat-kocak-3b9938195](https://www.linkedin.com/in/murat-kocak-3b9938195/)
+- **Email:** muratko357@gmail.com
+- **LinkedIn:** [linkedin.com/in/muratko357](https://www.linkedin.com/in/muratko357/)
 - **Published studies:** [independentresearcher.academia.edu/MuratKocak](https://independentresearcher.academia.edu/MuratKocak)
 
 ## Projects
