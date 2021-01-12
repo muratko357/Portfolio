@@ -7,9 +7,9 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 ## Projects
 
-<img align="left" width="250" height="160" src="Images/NL_crime_rates.png"> **[Netherlands Crime Analysis](https://github.com/muratko357/Netherlands-Crime-Analysis)**
+<img align="left" width="250" height="160" src="Images/NL_crime_rates.png"> **[Crime Analysis: Density of Violent and Sexual Crime in the Netherlands and in Amsterdam](https://github.com/muratko357/Netherlands-Crime-Analysis)**
 
-The study conducts an exploratory analysis on Violent and Sexual Crime rates-VSC (per 1000 inhabitants) by municipality in the Netherlands. It produces a table for the top municipalities with the highest VSC rates and generates a static choropleth map of the Netherlands as well as an interactive version of the map using the crime and geographic data. While both maps are displaying the boundaries of municipilaties and their colors as indicators of their crime rates, the interactive map additionally displays the names of the municipalities and their actual numbers of crime rates when one moves the mouse across the map. The crime data is sourced from the *Centraal Bureau voor de Statistiek* (The Hague / Heerlen).
+The study conducts an exploratory analysis on Violent and Sexual Crime-VSC in the Netherlands, at two levels, namely across 380 municipalities of the country and across neighborhoods of the Amsterdam city. The analysis reveals the top municipalities with the highest VSC rates per 1000 inhabitants as well as top neighborhoods with the highest number of police records of VSC in Amstedam. In each level, the study has produced a static choropleth map and aninteractive version of it based on the analyis of the data. While the static maps display the administrative boundaries of the places and their colors representing their crime density, the interactive maps additionally displays names of these places and numbers associated with the VSC when one moves the mouse across one of these maps.
 
 <img align="left" width="250" height="150" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Monitoring Project-Part II: Automatic Web-Scraping And Text Summarization (group project)](https://github.com/muratko357/NLP_coronavirus_project)**
 
