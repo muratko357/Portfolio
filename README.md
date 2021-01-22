@@ -7,7 +7,7 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 ## Projects
 
-<img align="left" width="250" height="160" src="Images/NL_crime_rates.png"> **[The Distribution of Violent and Sexual Crime by Municipality and Neighborhood: The Netherlands and Amsterdam 2018](https://github.com/muratko357/Netherlands-Crime-Analysis)**
+<img align="left" width="250" height="160" src="Images/NL_crime_rates.png"> **[Mapping Violent and Sexual Crime in the Netherlands 2018](https://github.com/muratko357/Netherlands-Crime-Analysis)**
 
 The study conducts an exploratory analysis on Violent and Sexual Crime-VSC in the Netherlands, at two levels, namely across 380 municipalities of the country and across neighborhoods of the Amsterdam city. The analysis reveals the top municipalities with the highest VSC rates per 1000 inhabitants as well as the top neighborhoods with the highest number of police records of VSC in Amsterdam. In each level, the study has produced a static choropleth map and an interactive version of it based on the data analysis. While the static maps display the administrative boundaries of the places and their colors representing their crime density, the interactive maps additionally display names of these places and numbers associated with the VSC when one moves the mouse across one of these maps.
 
