@@ -49,7 +49,7 @@ I have conducted an exploratory data analysis on the 2016 crime dataset of San F
 
 <img align="left" width="250" height="150" src="Images/Customer scatterplot.png">**[Visual Analytics with Tableau](https://public.tableau.com/profile/murat.kocak#!/)**
 
-Analyzing the Superstore dataset, I have completed variuos projects with Tableau in order to answer business questions in relation to sales, profits, and shipment status of orders. For this purpose, I have created crosstables, graphics, and maps in which I have applied design principles of data visualization. 
+Analyzing the Superstore dataset, I have completed various projects with Tableau in order to answer business questions in relation to sales, profits, and shipment status of orders. For this purpose, I have created crosstables, graphics, and maps in which I applied design principles of data visualization. 
 
 <br/>
 
