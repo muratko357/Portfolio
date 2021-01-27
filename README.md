@@ -47,7 +47,10 @@ Using data visulation tools and crosstabulation, I have analyzed the data that c
 
 I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.
 
- 
+<img align="left" width="250" height="150" src="Images/Customer scatterplot.png">**[Visual Analytics with Tableau](https://public.tableau.com/profile/murat.kocak#!/)**
+
+Analyzing the Superstore dataset, I have completed variuos projects with Tableau in order to answer business questions in relation to sales, profits, and shipment status of orders. For this purpose, I have created crosstables, graphics, and maps in which I have applied design principles of data visualization. 
+
 <br/>
 
 
@@ -58,7 +61,10 @@ I have conducted an exploratory data analysis on the 2016 crime dataset of San F
 ## Certificates
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
 
-  By Deeplo AI, 10 months tranining between 2019-2020 
+    By Deeplo AI, 10 months tranining between 2019-2020
+- **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
+
+    By University of California, Davis, 4 weeks study in 2021
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
 
     By DeepLearning.AI in 2020
