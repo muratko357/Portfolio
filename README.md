@@ -58,8 +58,7 @@ I have built a machine-learning classification model to make a prediction for th
 
 <img align="left" width="250" height="140" src="Images/Uber.png"> **[New York Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
 
-Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information for the business and drivers based on the geographic location and the time of the calls.                                                 
-
+Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information for the business and drivers based on the geographic location and the time of the calls.                                      
 <br/>
 
 
@@ -67,7 +66,6 @@ Using data visulation tools and crosstabulation, I have analyzed the data that c
 <img align="left" width="250" height="130" src="Images/San Francisco Crime Map.png"> **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
 I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.
-
 <br/>
 
 
