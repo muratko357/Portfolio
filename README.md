@@ -9,7 +9,7 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 <img align="left" width="250" height="150" src="Images/NL_crime_rates.png"> **[Mapping Violent and Sexual Crime in the Netherlands 2018](https://github.com/muratko357/Netherlands-Crime-Analysis)**
 
-I have conducted an exploratory analysis on Violent and Sexual Crime-VSC across municipalities of the Netherlands and neighborhoods of the Amsterdam city. The study produces a static choropleth map and its interactive version where locations and numbers associated with the VSC are being displayed when one moves the mouse across the maps.                                                                                             
+I have conducted exploratory analyses on Violent and Sexual Crime-VSC across municipalities of the Netherlands and neighborhoods of the Amsterdam city. The study produces a static choropleth map and its interactive version where locations and numbers associated with the VSC are being displayed when one moves the mouse across the maps.                                                                                             
 <br/>
 
 
@@ -58,16 +58,17 @@ I have built a machine-learning classification model to make a prediction for th
 
 <img align="left" width="250" height="140" src="Images/Uber.png"> **[New York Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
 
-Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information for the business and drivers based on the geographic location and the time of the calls.                                                        
+Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information for the business and drivers based on the geographic location and the time of the calls.                                                 
+
 <br/>
 
 
 
 <img align="left" width="250" height="130" src="Images/San Francisco Crime Map.png"> **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
-I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.                                            
-<br/>
+I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.
 
+<br/>
 
 
 <img align="left" width="250" height="140" src="Images/Customer scatterplot.png">**[Visual Analytics with Tableau](https://public.tableau.com/profile/murat.kocak#!/)**
