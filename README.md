@@ -38,7 +38,7 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 <br/>
 
 
-<img align="left" width="250" height="150" src="Images/LendingClub project.png">**[LendingClub Project](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)**
+<img align="left" width="250" height="160" src="Images/LendingClub project.png">**[LendingClub Project](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)**
 
 Via data visualization, I have conducted an exploratory data analysis on the loan data of LendingClub. Then I have applied Random Forest and Decision Tree models of machine learning to predict whether a particular loan would be paid back in full. The model has included variables related to customers, e.g., whether the borrower meets the credit underwriting criteria of LendingClub.com, purpose of the loan, interest rate of the loan, monthly installments owed by the borrower if the loan is funded, income of the borrower, debt-to-income ratio, FICO credit score of the borrower, number of days the borrower has had a credit line, and so on.
 <br/>
@@ -58,7 +58,7 @@ I have built a machine-learning classification model to make a prediction for th
 
 <img align="left" width="250" height="140" src="Images/Uber.png"> **[New York Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
 
-Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information for the business and drivers based on the geographic location and the time of the calls.
+Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information for the business and drivers based on the geographic location and the time of the calls.                                                        
 <br/>
 
 
