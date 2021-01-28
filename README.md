@@ -65,7 +65,7 @@ Using data visulation tools and crosstabulation, I have analyzed the data that c
 
 <img align="left" width="250" height="130" src="Images/San Francisco Crime Map.png"> **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
-I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.
+I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.    
 <br/>
 
 
