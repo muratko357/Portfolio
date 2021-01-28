@@ -7,13 +7,14 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 ## Projects
 
-<img align="left" width="250" height="160" src="Images/NL_crime_rates.png"> **[Mapping Violent and Sexual Crime in the Netherlands 2018](https://github.com/muratko357/Netherlands-Crime-Analysis)**
+<img align="left" width="250" height="150" src="Images/NL_crime_rates.png"> **[Mapping Violent and Sexual Crime in the Netherlands 2018](https://github.com/muratko357/Netherlands-Crime-Analysis)**
 
-I have conducted an exploratory analysis on Violent and Sexual Crime-VSC across municipalities of the Netherlands and neighborhoods of the Amsterdam city. The study produces a static choropleth map and its interactive version where locations and numbers associated with the VSC are being displayed when one moves the mouse across the maps.
+I have conducted an exploratory analysis on Violent and Sexual Crime-VSC across municipalities of the Netherlands and neighborhoods of the Amsterdam city. The study produces a static choropleth map and its interactive version where locations and numbers associated with the VSC are being displayed when one moves the mouse across the maps.                                                                                             
 <br/>
 
 
-<img align="left" width="250" height="150" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Monitoring Project-Part II: Automatic Web-Scraping And Text Summarization (group project)](https://github.com/muratko357/NLP_coronavirus_project)**
+
+<img align="left" width="250" height="140" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Monitoring Project-Part II: Automatic Web-Scraping And Text Summarization (group project)](https://github.com/muratko357/NLP_coronavirus_project)**
 
 In partial fulfillment of the requirements for the graduation of Data Science & Machine Learning Course, I have completed the part II of the project and created an automatic web-scraping and text summarization tool through using Natural Language Processing(NLP) techniques. The authomatic tool collects and processes official reports and statements about COVID-19 from official sources and summarizes them. In addition, it collects and updates readily available summaries of COVID-19 news from the media. The goal of the tool is to enable public to easily follow official advices, reports, and news on this matter (for the whole project, see [humanitariandata.co](https://humanitariandata.co/)).
 <br/>
@@ -37,7 +38,7 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 <br/>
 
 
-<img align="left" width="250" height="160" src="Images/LendingClub project.png">**[LendingClub Project](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)**
+<img align="left" width="250" height="150" src="Images/LendingClub project.png">**[LendingClub Project](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)**
 
 Via data visualization, I have conducted an exploratory data analysis on the loan data of LendingClub. Then I have applied Random Forest and Decision Tree models of machine learning to predict whether a particular loan would be paid back in full. The model has included variables related to customers, e.g., whether the borrower meets the credit underwriting criteria of LendingClub.com, purpose of the loan, interest rate of the loan, monthly installments owed by the borrower if the loan is funded, income of the borrower, debt-to-income ratio, FICO credit score of the borrower, number of days the borrower has had a credit line, and so on.
 <br/>
@@ -61,13 +62,15 @@ Using data visulation tools and crosstabulation, I have analyzed the data that c
 <br/>
 
 
-<img align="left" width="250" height="140" src="Images/San Francisco Crime Map.png"> **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
-I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.
+<img align="left" width="250" height="130" src="Images/San Francisco Crime Map.png"> **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
+
+I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.                                            
 <br/>
 
 
-<img align="left" width="250" height="150" src="Images/Customer scatterplot.png">**[Visual Analytics with Tableau](https://public.tableau.com/profile/murat.kocak#!/)**
+
+<img align="left" width="250" height="140" src="Images/Customer scatterplot.png">**[Visual Analytics with Tableau](https://public.tableau.com/profile/murat.kocak#!/)**
 
 Analyzing the Superstore dataset, I have completed various projects with Tableau in order to answer business questions in relation to sales, profits, and shipment status of orders. For this purpose, I have created crosstables, graphics, and maps in which I applied design principles of data visualization. 
 
