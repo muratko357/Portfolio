@@ -84,6 +84,9 @@ Analyzing the Superstore dataset, I have completed various projects with Tableau
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
 
     By Deeplo AI, 10 months tranining between 2019-2020
+- **[Fundamentals of GIS](https://wwww.coursera.org/verify/W2JTUKMBJPEP)**
+    
+    By University of California, Davis, 4 weeks study in 2021
 - **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
 
     By University of California, Davis, 4 weeks study in 2021
