@@ -9,7 +9,7 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 <img align="left" width="250" height="150" src="Images/NL_crime_rates.png"> **[Mapping Violent and Sexual Crime in the Netherlands 2018](https://github.com/muratko357/Netherlands-Crime-Analysis)**
 
-I have conducted exploratory analyses on Violent and Sexual Crime-VSC across municipalities of the Netherlands and neighborhoods of the Amsterdam city. The study produces a static choropleth map and its interactive version where locations and numbers associated with the VSC are being displayed when one moves the mouse across the maps.                                                                        
+I have conducted exploratory analyses on Violent and Sexual Crime-VSC across municipalities of the Netherlands and neighborhoods of the Amsterdam city. The study produces a static choropleth map and its interactive version where locations and numbers associated with the VSC are being displayed when one moves the mouse across the maps. To see another version of the interaction map created in Tableau, please click [here](https://public.tableau.com/profile/murat.kocak#!/vizhome/shared/DS58Y25XY).
 <br/>
 
 
