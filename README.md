@@ -7,11 +7,14 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 ## Projects
 
+<img align="left" width="250" height="160" src="Images/California_electoral_politics_2012 screenshot.png"> **[GIS Project: California electoral politics](https://arcg.is/vOr9v)**
+
+For this project, I have used ArGIS in order to analyze the electoral politics data of California in 2012, which involves numbers of votes in favor of genetically modified organisms-GMOs in food and total voters specific to geographical locations. I have a created a map that displays a normalized distribution of 'yes' votes by county in the Calfifornia state. I have created a PDF format of the map’s layout (to see please **[click](https://github.com/muratko357/muratko357.github.io/blob/main/Images/California%20electoral%20politics%202012.pdf)**) and a map package of the map which is shared in my ArGIS account **[here](https://arcg.is/vOr9v)**.
+
 <img align="left" width="250" height="150" src="Images/NL_crime_rates.png"> **[Mapping Violent and Sexual Crime in the Netherlands 2018](https://github.com/muratko357/Netherlands-Crime-Analysis)**
 
 I have conducted exploratory analyses on Violent and Sexual Crime-VSC across municipalities of the Netherlands and neighborhoods of the Amsterdam city. The study produces a static choropleth map and its interactive version where locations and numbers associated with the VSC are being displayed when one moves the mouse across the maps. To see another version of the interaction map created in Tableau, please click [here](https://public.tableau.com/profile/murat.kocak#!/vizhome/shared/DS58Y25XY).
 <br/>
-
 
 
 <img align="left" width="250" height="140" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Monitoring Project-Part II: Automatic Web-Scraping And Text Summarization (group project)](https://github.com/muratko357/NLP_coronavirus_project)**
