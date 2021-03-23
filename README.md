@@ -64,7 +64,7 @@ I have conducted exploratory analyses on Violent and Sexual Crime-VSC across mun
 <br/>
 
 
-<img align="left" width="250" height="130" src="Images/San Francisco Crime Map.png"> **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
+<img align="left" width="250" height="150" src="Images/San Francisco Crime Map.png"> **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
 _Tools: Python, pandas, matplotlib, seaborn, folium_
 
