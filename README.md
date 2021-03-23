@@ -40,7 +40,7 @@ Using data visulation tools and crosstabulation, I have analyzed the data that c
 <br/>
 
 
-<img align="left" width="250" height="140" src="Images/Customer scatterplot.png">**[Superstore Dataset Analysis](https://public.tableau.com/profile/murat.kocak#!/)**
+<img align="left" width="250" height="140" src="Images/Customer scatterplot.png">**[Superstore Dataset Analysis: Sales, Profits, and Shipment](https://public.tableau.com/profile/murat.kocak#!/)**
 
 _Tools: Tableau_
 
