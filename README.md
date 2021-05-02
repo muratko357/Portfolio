@@ -139,4 +139,7 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 - **[Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/XLKY7NR5MHNR)**
 
     By Macquarie University, 6 weeks study in 2020
+    
+- **[Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AZ9QH5ZRW8ZJ)**
 
+    By IBM, 5 weeks study in 2021
