@@ -113,12 +113,6 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
 
     By Deeplo AI, 10 months tranining between 2019-2020
-- **[Fundamentals of GIS](https://wwww.coursera.org/verify/W2JTUKMBJPEP)**
-    
-    By University of California, Davis, 4 weeks study in 2021
-- **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
-
-    By University of California, Davis, 4 weeks study in 2021
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
 
     By DeepLearning.AI in 2020
@@ -134,12 +128,21 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 
     By University of Michigan, 5 weeks study in 2019    
 - **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/RCS4MAWPR3KC)**
+   
+    By University of California, Davis, 4 weeks study in 2019    
+- **[Fundamentals of GIS](https://wwww.coursera.org/verify/W2JTUKMBJPEP)**
+    
+    By University of California, Davis, 4 weeks study in 2021
+- **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
 
-    By University of California, Davis, 4 weeks study in 2019
+    By University of California, Davis, 4 weeks study in 2021
+- **[Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/URFTXK97VQ6L)**
+    
+    By IBM, 4 weeks study in 2021
+- **[Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AZ9QH5ZRW8ZJ)**
+
+    By IBM, 5 weeks study in 2021    
+     
 - **[Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/XLKY7NR5MHNR)**
 
     By Macquarie University, 6 weeks study in 2020
-    
-- **[Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AZ9QH5ZRW8ZJ)**
-
-    By IBM, 5 weeks study in 2021
