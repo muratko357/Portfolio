@@ -44,7 +44,7 @@ Using data visulation tools and crosstabulation, I have analyzed the data that c
 
 _Tools: Tableau_
 
-Analyzing the Superstore dataset, I have completed various projects in order to answer business questions in relation to sales, profits, and shipment status of orders. For this purpose, I have created crosstables, graphics, and maps in which I applied design principles of data visualization. 
+I have completed various tasks in order to answer business questions in relation to sales, profits, and shipment status of orders. For this purpose, I have created various dashboards using crosstables, graphics, and maps in which I applied design principles of data visualization.
 
 <br/>
 
@@ -58,9 +58,9 @@ The data for California 2012 electoral politics involves geographic information 
 
 <img align="left" width="250" height="150" src="Images/NL_crime_rates.png"> **[Analysis of Violent and Sexual Crime in the Netherlands 2018](https://github.com/muratko357/Netherlands-Crime-Analysis)**
 
-_Tools: Python, numpy, pandas, geopandas, matplotlib, json, bokeh_
+_Tools: Python, numpy, pandas, geopandas, matplotlib, json, bokeh, & Tableau_
 
-I have conducted exploratory analyses on Violent and Sexual Crime-VSC across municipalities of the Netherlands and neighborhoods of the Amsterdam city. Using libraries of Python, I have created a static choropleth map and its interactive version where locations and numbers associated with the VSC are being displayed when one moves the mouse across the maps. Using Tableau, I have provided extra presentations of these maps [here](https://public.tableau.com/profile/murat.kocak#!/vizhome/shared/DS58Y25XY).
+I have conducted exploratory analyses on violent and sexual crime across municipalities of the Netherlands and neighborhoods of the Amsterdam city. Using libraries of Python, I have created a static choropleth and its interactive version. I have also analyzed the data with another tool,  Tableau, which resulted in better outputs (see the [dashboards](https://public.tableau.com/views/Netherlandscrimerateofviolentandsexualcrimebymunicipality/ViolentandSexualCrimeinNetherlands2018?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br/>
 
 
