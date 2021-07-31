@@ -20,7 +20,7 @@ I have built a machine-learning classification model to make a prediction for th
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, sklearn_
 
-Via data visualization, I have conducted an exploratory data analysis on the loan data of LendingClub. Then I have applied Random Forest and Decision Tree models of machine learning to predict whether a particular loan would be paid back in full. The model has included variables related to customers, e.g., whether the borrower meets the credit underwriting criteria of LendingClub.com, purpose of the loan, interest rate of the loan, monthly installments owed by the borrower if the loan is funded, income of the borrower, debt-to-income ratio, FICO credit score of the borrower, number of days the borrower has had a credit line, and so on.
+Via data visualization, I have conducted an exploratory data analysis on the loan data of LendingClub. Then I have applied Random Forest and Decision Tree models of machine learning to predict whether a particular loan would be paid back in full. The model has included variables related to customers, e.g., purpose of the loan, interest rate of the loan, monthly installments owed by the borrower if the loan is funded, income of the borrower, debt-to-income ratio, FICO credit score of the borrower, number of days the borrower has had a credit line, and so on.
 <br/>
 
 
