@@ -13,6 +13,7 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
 
 I have built a machine-learning classification model to make a prediction for the weather, whether it rains or not tomorrow. I have worked with the data from Australia in order to run the model and get results. I have checked accuracy scores and computation time of various models to find the best model that fits the data, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine.
+	
 <br/>
 
 
@@ -21,22 +22,23 @@ I have built a machine-learning classification model to make a prediction for th
 _Tools: Python, numpy, pandas, matplotlib, seaborn, sklearn_
 
 Via data visualization, I have conducted an exploratory data analysis on the loan data of LendingClub. Then I have applied Random Forest and Decision Tree models of machine learning to predict whether a particular loan would be paid back in full. The model has included variables related to customers, e.g., purpose of the loan, interest rate of the loan, monthly installments owed by the borrower if the loan is funded, income of the borrower, debt-to-income ratio, FICO credit score of the borrower, number of days the borrower has had a credit line, and so on.
-<br/>
 
 
 <img align="left" width="250" height="150" src="Images/banknote-authentication.jpeg">**[Bank Note Authentication](https://github.com/muratko357/ML_models/blob/master/banknote-authentication.ipynb)**
 
 _Tools: Python, pandas, matplotlib, seaborn, sklearn, tensorflow_
 
-I have used the [Bank Authentication Data Set of UCI](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) and a Deep Neural Network Classifier to predict if a Bank Note is authentic or not. The data consists of 5 varibales: variance of Wavelet Transformed image (continuous), skewness of Wavelet Transformed image (continuous), curtosis of Wavelet Transformed image (continuous), entropy of image (continuous), and class (integer) indicating whether or not a Bank Note was authentic. 
+I have used the Bank Authentication Data Set of UCI and a Deep Neural Network Classifier to predict if a bank note is authentic or not. The data consists of 5 varibales: variance of Wavelet Transformed image (continuous), skewness of Wavelet Transformed image (continuous), curtosis of Wavelet Transformed image (continuous), entropy of image (continuous), and class (integer) indicating whether or not a bank note was authentic. 
+
 <br/>
 
 
-<img align="left" width="250" height="140" src="Images/Uber.png"> **[Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
+<img align="left" width="250" height="140" src="Images/Uber%20data%20analysis.png"> **[Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn_
 
-Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives important information for the business and drivers based on the geographic location and the time of the calls.                               
+Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives information for the business and drivers based on the geographic location and the time of the calls.
+
 <br/>
 
 
@@ -96,7 +98,7 @@ I have applied the You Only Look Once-YOLO model to car detection on a car detec
 <br/>
 
 
-<img align="left" width="250" height="150" src="Images/distance_kiank.png"> **[Face Verification & Face Recognition](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)**
+<img align="left" width="250" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvMWEs2FveiYw9UMIY1RK54QQCcLimSG0lbjvuKJU3kCaTgY4wz613Vxzk8D6RTEXERc&usqp=CAU"> **[Face Verification & Face Recognition](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)**
 
 _Tools: Python, numpy, pandas, keras, tensorflow, cv2, os, utilities provided by deeplearning.ai_ 
 
