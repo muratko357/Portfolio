@@ -12,8 +12,7 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
 
-I have built a machine-learning classification model to make a prediction for the weather, whether it rains or not tomorrow. I have worked with the data from Australia in order to run the model and get results. I have checked accuracy scores and computation time of various models to find the best model that fits the data, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine.
-	
+I have built a machine-learning classification model to make a prediction for the weather, whether it rains or not tomorrow. I have worked with the data from Australia in order to run the model and get results. I have checked accuracy scores and computation time of various models to find the best model that fits the data, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine.	
 <br/>
 
 
@@ -29,7 +28,6 @@ Via data visualization, I have conducted an exploratory data analysis on the loa
 _Tools: Python, pandas, matplotlib, seaborn, sklearn, tensorflow_
 
 I have used the Bank Authentication Data Set of UCI and a Deep Neural Network Classifier to predict if a bank note is authentic or not. The data consists of 5 varibales: variance of Wavelet Transformed image (continuous), skewness of Wavelet Transformed image (continuous), curtosis of Wavelet Transformed image (continuous), entropy of image (continuous), and class (integer) indicating whether or not a bank note was authentic. 
-
 <br/>
 
 
@@ -38,7 +36,6 @@ I have used the Bank Authentication Data Set of UCI and a Deep Neural Network Cl
 _Tools: Python, numpy, pandas, matplotlib, seaborn_
 
 Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives information for the business and drivers based on the geographic location and the time of the calls.
-
 <br/>
 
 
@@ -47,7 +44,6 @@ Using data visulation tools and crosstabulation, I have analyzed the data that c
 _Tools: Tableau_
 
 I have completed various tasks in order to answer business questions in relation to sales, profits, and shipment status of orders. For this purpose, I have created various dashboards using crosstables, graphics, and maps in which I applied design principles of data visualization.
-
 <br/>
 
 
@@ -56,6 +52,7 @@ I have completed various tasks in order to answer business questions in relation
 _Tools: ArcGIS_
 
 The data for California 2012 electoral politics involves geographic information as well as numbers of votes in favor of genetically modified organisms-GMOs in food and total voters specific to geographical locations. I have a created a map that displays a normalized distribution of 'yes' votes by county in the California state. I have created a PDF format of the map’s layout (to see please **[click](https://github.com/muratko357/muratko357.github.io/blob/main/Images/California%20electoral%20politics%202012.pdf)**) and a map package of the map which is shared in my ArGIS account **[here](https://arcg.is/vOr9v)**.
+<br/>
 
 
 <img align="left" width="250" height="150" src="Images/NL_crime_rates.png"> **[Analysis of Violent and Sexual Crime in the Netherlands 2018](https://github.com/muratko357/Netherlands-Crime-Analysis)**
