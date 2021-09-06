@@ -122,16 +122,16 @@ Python (for data science), Pandas, Matplotlib, SQL, Excel, Tableau, IBM Watson S
 
 ## Certificates
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
-
-    By Deeplo AI, 10 months tranining between 2019-2020
+    By Deeplo AI between 2019-2020    
+    
+    (10) months course with a capstone project, including Python for Data Science, Databases and SQL, Linear Algebra, statistics, GIT, data pre-processing,     Regression, Classification, Machine Learning Models, Tensorflow, and Keras and more.
+    
+    
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
-
-    Deeplo AI, Amsterdam, (10) months course with a capstone project: Python for Data Science, Databases and
-    SQL, Linear Algebra, statistics, GIT, data pre-processing, Regression, Classification, Machine Learning Models,
-    Tensorflow, and Keras and more.
-
-
     By DeepLearning.AI in 2020
+    
+    (16) weeks online study via 5 courses, including: neural network architectures, such as Convolutional Neural Networks, Recurrent Neural Networks,           LSTM's, Transformers, strategies to improve them, such as Dropout, BatchNorm and Xavier/He initialization; their theoretical concepts, their industry
+    applications using Python and TensorFlow in real world cases such as speech recognition, music synthesis, chatbots, machine translation, and natural       language processing, and more.    
     - **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)** - 2 weeks study
     - **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/SPT2V28H3WHH)** - 4 weeks study 
     - **[Sequence Models](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)** - 3 weeks study
