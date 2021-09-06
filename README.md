@@ -3,7 +3,6 @@ This Portfolio is a compilation of the Data Science and Machine Learning project
 
 - **Email:** muratko357@gmail.com
 - **LinkedIn:** [linkedin.com/in/muratko357](https://www.linkedin.com/in/muratko357/)
-- **Published studies:** [independentresearcher.academia.edu/MuratKocak](https://independentresearcher.academia.edu/MuratKocak)
 
 ## Projects
 
@@ -120,7 +119,7 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 ## Software
 Python (for data science), Pandas, Matplotlib, SQL, Excel, Tableau, IBM Watson Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Stata
 
-## Certificates
+## Certified Courses
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
 
     By Deeplo AI between 2019-2020: (10) months course with a capstone project, including Python for Data Science, Databases and SQL, Linear Algebra,           statistics, GIT, data pre-processing, Regression, Classification, Machine Learning Models, Tensorflow, and Keras and more.  
