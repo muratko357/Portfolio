@@ -118,15 +118,18 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 *	Web-scraping
 
 ## Software
-*	Python (for data science)   *	Pandas      *	Matplotlib  *	SQL         *	Excel       *	Tableau  
-*	IBM Watson Studio           *	IBM Cognos  *	ArcGIS      *	MS Suit     *	Google Suit *	Jupyter Notebook
-*	HTML & CSS                  *	Stata
+Python (for data science), Pandas, Matplotlib, SQL, Excel, Tableau, IBM Watson Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Stata
 
 ## Certificates
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
 
     By Deeplo AI, 10 months tranining between 2019-2020
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
+
+    Deeplo AI, Amsterdam, (10) months course with a capstone project: Python for Data Science, Databases and
+    SQL, Linear Algebra, statistics, GIT, data pre-processing, Regression, Classification, Machine Learning Models,
+    Tensorflow, and Keras and more.
+
 
     By DeepLearning.AI in 2020
     - **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)** - 2 weeks study
