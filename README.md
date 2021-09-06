@@ -104,23 +104,23 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 
 
 ## Areas of expertise
-•	Research methods and statistics
-•	Data analysis
-•	Public policy analysis
-•	Crime analysis
-•	Developing policies for safety and crime prevention
+*	Research methods and statistics
+*	Data analysis
+*	Public policy analysis
+*	Crime analysis
+*	Developing policies for safety and crime prevention
 
 ## Areas of experience
 
-•	Visual analytics
-•	Machine Learning
-•	GIS mapping
-•	Web-scraping
+*	Visual analytics
+*	Machine Learning
+*	GIS mapping
+*	Web-scraping
 
 ## Software
-•	Python (for data science)   •	Pandas      •	Matplotlib      •	SQL         •	Excel       •	Tableau  
-•	IBM Watson Studio           •	IBM Cognos  •	ArcGIS          •	MS Suit     •	Google Suit •	Jupyter Notebook
-•	HTML & CSS                  •	Stata
+*	Python (for data science)   *	Pandas      *	Matplotlib  *	SQL         *	Excel       *	Tableau  
+*	IBM Watson Studio           *	IBM Cognos  *	ArcGIS      *	MS Suit     *	Google Suit *	Jupyter Notebook
+*	HTML & CSS                  *	Stata
 
 ## Certificates
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
