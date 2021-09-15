@@ -132,6 +132,8 @@ Python (for data science), Pandas, Matplotlib, SQL, Excel, Tableau, IBM Watson S
     - **[Sequence Models](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)** - 3 weeks study
     - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)** - 3 weeks study  
     - **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**  - 4 weeks study  
+    
+    
 **_Other courses by date:_**
 - **[Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/9SAYLFRZRBPU)**
 
