@@ -132,28 +132,31 @@ Python (for data science), Pandas, Matplotlib, SQL, Excel, Tableau, IBM Watson S
     - **[Sequence Models](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)** - 3 weeks study
     - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)** - 3 weeks study  
     - **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**  - 4 weeks study  
-- **[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/verify/YWZM6PRRCXQ4)**
+### _Other courses by date:_
+- **[Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/9SAYLFRZRBPU)**
 
-    By University of Michigan, 4 weeks study in 2020
-- **[Using Databases with Python](https://www.coursera.org/account/accomplishments/verify/48KHKNJ8CNTW)**
-
-    By University of Michigan, 5 weeks study in 2019    
-- **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/RCS4MAWPR3KC)**
-   
-    By University of California, Davis, 4 weeks study in 2019    
-- **[Fundamentals of GIS](https://wwww.coursera.org/verify/W2JTUKMBJPEP)**
-    
-    By University of California, Davis, 4 weeks study in 2021
-- **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
-
-    By University of California, Davis, 4 weeks study in 2021
+    By IBM, 6 week course in 2021
 - **[Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/URFTXK97VQ6L)**
     
     By IBM, 4 weeks study in 2021
 - **[Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AZ9QH5ZRW8ZJ)**
 
-    By IBM, 5 weeks study in 2021    
-     
+    By IBM, 5 weeks course in 2021    
+- **[Fundamentals of GIS](https://wwww.coursera.org/verify/W2JTUKMBJPEP)**
+    
+    By University of California, Davis, 4 weeks course in 2021
+- **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
+
+    By University of California, Davis, 4 weeks course in 2021
+- **[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/verify/YWZM6PRRCXQ4)**
+
+    By University of Michigan, 4 weeks course in 2020
 - **[Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/XLKY7NR5MHNR)**
 
-    By Macquarie University, 6 weeks study in 2020
+    By Macquarie University, 6 weeks course in 2020
+- **[Using Databases with Python](https://www.coursera.org/account/accomplishments/verify/48KHKNJ8CNTW)**
+
+    By University of Michigan, 5 weeks course in 2019    
+- **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/RCS4MAWPR3KC)**
+   
+    By University of California, Davis, 4 course study in 2019
