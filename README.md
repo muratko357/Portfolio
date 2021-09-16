@@ -113,11 +113,12 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 
 *	Visual analytics
 *	Machine Learning
+*	Deep Learning
 *	GIS mapping
 *	Web-scraping
 
 ## Software
-Python (for data science), Pandas, Matplotlib, SQL, Excel, Tableau, IBM Watson Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Stata
+SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Scikit_learn, Statsmodels, Excel, Tableau, IBM Watson Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Stata
 
 ## Certified Courses
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
@@ -126,39 +127,39 @@ Python (for data science), Pandas, Matplotlib, SQL, Excel, Tableau, IBM Watson S
     
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
 
-    By DeepLearning.AI in 2020: (16) weeks online study via 5 courses, including neural network architectures, such as Convolutional Neural Networks,           Recurrent Neural Networks, LSTM's, Transformers, strategies to improve them, such as Dropout, BatchNorm and Xavier/He initialization; their theoretical     concepts, their industry applications using Python and TensorFlow in real world cases such as speech recognition, music synthesis, chatbots, machine       translation, and natural language processing, and more.    
-    - **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)** - 2 weeks study
-    - **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/SPT2V28H3WHH)** - 4 weeks study 
-    - **[Sequence Models](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)** - 3 weeks study
-    - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)** - 3 weeks study  
-    - **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**  - 4 weeks study  
+    By DeepLearning.AI in 2020: (16) weeks online study via 5 courses, including neural network architectures, such as Convolutional Neural Networks,       Recurrent Neural Networks, LSTM's, Transformers, strategies to improve them, such as Dropout, BatchNorm and Xavier/He initialization; their             theoretical concepts, their industry applications using Python and TensorFlow in real world cases such as speech recognition, music synthesis,           chatbots, machine translation, and natural language processing, and more.    
+    - **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)** 
+    - **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/SPT2V28H3WHH)**
+    - **[Sequence Models](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)** 
+    - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)** 
+    - **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**
     
     
 **_Other courses by date:_**
 - **[Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/9SAYLFRZRBPU)**
 
-    By IBM, 6 week course in 2021
+    By IBM, 6 weeks in 2021
 - **[Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/URFTXK97VQ6L)**
     
-    By IBM, 4 weeks study in 2021
+    By IBM, 4 weeks in 2021
 - **[Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AZ9QH5ZRW8ZJ)**
 
-    By IBM, 5 weeks course in 2021    
+    By IBM, 5 weeks in 2021    
 - **[Fundamentals of GIS](https://wwww.coursera.org/verify/W2JTUKMBJPEP)**
     
-    By University of California, Davis, 4 weeks course in 2021
+    By University of California, Davis, 4 weeks in 2021
 - **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
 
-    By University of California, Davis, 4 weeks course in 2021
+    By University of California, Davis, 4 weeks in 2021
 - **[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/verify/YWZM6PRRCXQ4)**
 
-    By University of Michigan, 4 weeks course in 2020
+    By University of Michigan, 4 weeks in 2020
 - **[Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/XLKY7NR5MHNR)**
 
-    By Macquarie University, 6 weeks course in 2020
+    By Macquarie University, 6 weeks in 2020
 - **[Using Databases with Python](https://www.coursera.org/account/accomplishments/verify/48KHKNJ8CNTW)**
 
-    By University of Michigan, 5 weeks course in 2019    
+    By University of Michigan, 5 weeks in 2019    
 - **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/RCS4MAWPR3KC)**
    
-    By University of California, Davis, 4 course study in 2019
+    By University of California, Davis, 4 weeks in 2019
