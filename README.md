@@ -136,6 +136,9 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Scikit_learn, Statsmodel
     
     
 **_Other courses by date:_**
+- **[Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/6FZCJDYFXC6V)**
+
+    By IBM, 6 weeks in 2021
 - **[Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/9SAYLFRZRBPU)**
 
     By IBM, 6 weeks in 2021
