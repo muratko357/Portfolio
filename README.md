@@ -1,6 +1,6 @@
 # Murat Koçak
 # Data Science and Analytics Portfolio
-This Portfolio is a compilation of the Data Science and Machine Learning projects I have done for learning. It also contains my core competencies and certificates and is being updated on regular basis.
+This Portfolio is a compilation of the Data Science and Analytics projects I have done for learning. It also contains my core competencies and certificates and is being updated on regular basis.
 
 - **Email:** muratko357@gmail.com
 - **LinkedIn:** [linkedin.com/in/muratko357](https://www.linkedin.com/in/muratko357/)
