@@ -142,7 +142,7 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Scikit_learn, Statsmodel
     - **[Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AZ9QH5ZRW8ZJ)**
     - **[Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/YDUZXQZF6RRX)**
     
-**_Other courses by date:_**
+**_Other courses by date (reverse):_**
 - **[Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/6FZCJDYFXC6V)**
 
     By IBM, 6 weeks in 2021
