@@ -134,6 +134,13 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Scikit_learn, Statsmodel
     - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)** 
     - **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**
     
+- **[Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UTXJUDDUZGA8)**
+  
+  By IBM in 2021: (14) weeks online study via 3 courses, including the core principles of data analysis and visualization, data ecosystem, tools and
+  technologies in this ecosystem, working with spreadsheets like Excel, loading different data sets, employing techniques like summarization, sorting,     filtering, and creating pivot tables, creating different types of data visualizations such as line plots, bar charts, pie charts, creating advanced     visualizations such as treemaps, scatter charts, histograms, and map charts, and building interactive dashboards using IBM Cognos Analytics.  
+    - **[Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/URFTXK97VQ6L)**
+    - **[Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AZ9QH5ZRW8ZJ)**
+    - **[Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/YDUZXQZF6RRX)**
     
 **_Other courses by date:_**
 - **[Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/6FZCJDYFXC6V)**
@@ -145,12 +152,6 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Scikit_learn, Statsmodel
 - **[Python project for Data Science](https://www.coursera.org/account/accomplishments/certificate/FRCPK4VQT9CH)**
 
     By IBM, 1 week in 2021
-- **[Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/URFTXK97VQ6L)**
-    
-    By IBM, 4 weeks in 2021
-- **[Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AZ9QH5ZRW8ZJ)**
-
-    By IBM, 5 weeks in 2021    
 - **[Fundamentals of GIS](https://wwww.coursera.org/verify/W2JTUKMBJPEP)**
     
     By University of California, Davis, 4 weeks in 2021
