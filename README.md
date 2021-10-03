@@ -153,21 +153,21 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Scikit_learn, Statsmodel
 - **[Python project for Data Science](https://www.coursera.org/account/accomplishments/certificate/FRCPK4VQT9CH)**
 
     By IBM, 1 week in 2021
-- **[Fundamentals of GIS](https://wwww.coursera.org/verify/W2JTUKMBJPEP)**
+- **[Fundamentals of GIS](https://www.coursera.org/account/accomplishments/certificate/W2JTUKMBJPEP)**
     
     By University of California, Davis, 4 weeks in 2021
 - **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
 
     By University of California, Davis, 4 weeks in 2021
-- **[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/verify/YWZM6PRRCXQ4)**
+- **[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/certificate/YWZM6PRRCXQ4)**
 
     By University of Michigan, 4 weeks in 2020
-- **[Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/XLKY7NR5MHNR)**
+- **[Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/certificate/XLKY7NR5MHNR)**
 
     By Macquarie University, 6 weeks in 2020
-- **[Using Databases with Python](https://www.coursera.org/account/accomplishments/verify/48KHKNJ8CNTW)**
+- **[Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/48KHKNJ8CNTW)**
 
     By University of Michigan, 5 weeks in 2019    
-- **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/RCS4MAWPR3KC)**
+- **[SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/RCS4MAWPR3KC)**
    
     By University of California, Davis, 4 weeks in 2019
