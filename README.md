@@ -7,7 +7,7 @@ This Portfolio is a compilation of the Data Science and Analytics projects I hav
 
 ## Projects
 
-<img align="left" width="250" height="140" src="https://github.com/muratko357/dash_application/blob/main/dashboard.png"/> **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
+<img align="left" width="250" height="140" src="Images/dashboard.png"/> **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
 
 _Tools: Python, pandas, plotly, dash_
 
