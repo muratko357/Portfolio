@@ -119,7 +119,7 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 *	Web-scraping
 
 ## Software
-SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Scikit_learn, Statsmodels, Excel, Tableau, IBM Watson Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Stata
+SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, Statsmodels, Excel, Tableau, IBM Watson Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Flask, and Stata
 
 ## Certified Courses
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
