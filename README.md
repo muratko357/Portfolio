@@ -71,11 +71,11 @@ I have conducted an exploratory data analysis on the 2016 crime dataset of San F
 <br/>
 
 
-<img align="left" width="250" height="140" src="Images/humanitariandatalogo.jpg"> **[COVID-19 Group Project-Part II: Creating an Automatic Web-Scraping and Text Summarization Tool](https://github.com/muratko357/NLP_coronavirus_project)**
+<img align="left" width="250" height="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpsU5BDHW2JysQldmMy0XtNFrRglTInR302w&usqp=CAU"> **[COVID-19 Group Project-Part II: Creating an Automatic Web-Scraping and Text Summarization Tool](https://github.com/muratko357/NLP_coronavirus_project)**
 
 _Tools: Python, pandas, BeautifulSoup, nltk, re, threading, time_
 
-In partial fulfillment of the requirements for the graduation of Data Science & Machine Learning Course, I have completed the part II of the project and created an automatic web-scraping and text summarization tool through using Natural Language Processing(NLP) techniques. The authomatic tool collects and processes official reports and statements about COVID-19 from official sources and summarizes them. In addition, it collects and updates readily available summaries of COVID-19 news from the media. The goal of the tool is to enable public to easily follow official advices, reports, and news on this matter (for the whole project, see [humanitariandata.co](https://humanitariandata.co/)).
+In partial fulfillment of the requirements for the graduation of Data Science & Machine Learning Course, I have completed the part II of the project and created an automatic web-scraping and text summarization tool through using Natural Language Processing(NLP) techniques. The authomatic tool collects and processes official reports and statements about COVID-19 from official sources and summarizes them. In addition, it collects and updates readily available summaries of COVID-19 news from the media. The goal of the tool is to enable public to easily follow official advices, reports, and news on this matter.
 <br/>
 
 
