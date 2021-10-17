@@ -8,7 +8,7 @@ This Portfolio is a compilation of the Data Science and Analytics projects I hav
 ## Projects
 
 
-<img align="left" width="250" height="150" padding= '2' src="Images/rain.jpg"> **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)**
+<img align="left" width="250" height="150" src="Images/rain.jpg"> **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)** &nbsp;&nbsp;&nbsp;&nbsp;
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
 
