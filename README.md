@@ -7,7 +7,12 @@ This Portfolio is a compilation of the Data Science and Analytics projects I hav
 
 ## Projects
 
+<img align="left" width="250" height="140" src="https://github.com/muratko357/dash_application/blob/main/dashboard.png"/> **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
 
+_Tools: Python, pandas, plotly, dash_
+
+I have created a reactive and web-based dashboard application which enables interactive and real time visualization of the data, in this case, to visualize US domestic airline performance.<br/><br/>                                                                                                                                                                                     
+       
 <img align="left" width="250" height="150" src="Images/rain.jpg"/> **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)** 
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
