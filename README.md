@@ -149,7 +149,7 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, St
     - **[Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/YDUZXQZF6RRX)**
     
 **_Other courses by date (reverse):_**
-- **[Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/8R6BUUZ2GNRP)
+- **[Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/8R6BUUZ2GNRP)**
 
     By IBM, 5 weeks in 2021
 - **[Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/6FZCJDYFXC6V)**
