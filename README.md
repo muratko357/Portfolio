@@ -151,7 +151,7 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, St
     Issued by Coursera, 22 March 2021    
 - **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
         
-    Authorized by University of California, Davis <br/>    
+    Authorized by University of California, Davis <br/>
     Issued by Coursera, 22 January 2021  
 - **[Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/certificate/XLKY7NR5MHNR)**
 
