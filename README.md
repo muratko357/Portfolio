@@ -127,55 +127,45 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, Statsmodels, Excel, Tableau, IBM Watson Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Flask, and Stata
 
 ## Certified Courses
+- **[IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP)**
+    
+    Authorized by IBM 
+    Issued by Coursera, 30 October 2021
+    This IBM Professional Certificate is earned after successfully completing 9 courses on various topics in Data Analytics. The courses included           working with hands-on with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Relational Databases,           Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation, data analysis, and data visualization. The
+    earner of this Certificate has demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating           visualizations & interactive dashboards, and presenting reports to share findings of data analysis, and is now equipped with skills for an entry-       level role in data analytics.    
+- **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LYBC2CT82XHX)**
+
+    Authorized by DeepLearning.AI
+    Issued by Coursera, 12 March 2020
+    This certificate is earned after successfully completing 5 courses. The courses iclueded neural network architectures, such as Convolutional Neural     Networks, Recurrent Neural Networks, LSTM's, Transformers, strategies to improve them, such as Dropout, BatchNorm and Xavier/He initialization;         their theoretical concepts, their industry applications using Python and TensorFlow in real world cases such as speech recognition, music synthesis,     chatbots, machine translation, and natural language processing, and more.    
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
-
-    By Deeplo AI between 2019-2020: (10) months course with a capstone project, including Python for Data Science, Databases and SQL, Linear Algebra,           statistics, GIT, data pre-processing, Regression, Classification, Machine Learning Models, Tensorflow, and Keras and more.  
     
-- **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LYBC2CT82XHX)**
-
-    By DeepLearning.AI in 2020: (16) weeks online study via 5 courses, including neural network architectures, such as Convolutional Neural Networks,       Recurrent Neural Networks, LSTM's, Transformers, strategies to improve them, such as Dropout, BatchNorm and Xavier/He initialization; their             theoretical concepts, their industry applications using Python and TensorFlow in real world cases such as speech recognition, music synthesis,           chatbots, machine translation, and natural language processing, and more.    
-    - **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/H7YF3Y4SCGXD)** 
-    - **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/SPT2V28H3WHH)**
-    - **[Sequence Models](https://www.coursera.org/account/accomplishments/verify/2HKPQDG75Y3B)** 
-    - **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/V3H64EVGGMMQ)** 
-    - **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9X6TCJQN2TK5)**
+    Issued by DeeoloAI, 15 July 2020
+    (10) months course with a capstone project, including Python for Data Science, Databases and SQL, Linear Algebra, statistics, GIT, data pre-             processing, Regression, Classification, Machine Learning Models, Tensorflow, and Keras and more.  
+           
+**_Other courses:_**
     
-- **[Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UTXJUDDUZGA8)**
-  
-  By IBM in 2021: (14) weeks online study via 3 courses, including the core principles of data analysis and visualization, data ecosystem, tools and
-  technologies in this ecosystem, working with spreadsheets like Excel, loading different data sets, employing techniques like summarization, sorting,     filtering, and creating pivot tables, creating different types of data visualizations such as line plots, bar charts, pie charts, creating advanced     visualizations such as treemaps, scatter charts, histograms, and map charts, and building interactive dashboards using IBM Cognos Analytics.  
-    - **[Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/URFTXK97VQ6L)**
-    - **[Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AZ9QH5ZRW8ZJ)**
-    - **[Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/YDUZXQZF6RRX)**
-    
-**_Other courses by date (reverse):_**
-- **[Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/8R6BUUZ2GNRP)**
-
-    By IBM, 5 weeks in 2021
-- **[Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/6FZCJDYFXC6V)**
-
-    By IBM, 6 weeks in 2021
-- **[Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/9SAYLFRZRBPU)**
-
-    By IBM, 6 weeks in 2021
-- **[Python project for Data Science](https://www.coursera.org/account/accomplishments/certificate/FRCPK4VQT9CH)**
-
-    By IBM, 1 week in 2021
 - **[Fundamentals of GIS](https://www.coursera.org/account/accomplishments/certificate/W2JTUKMBJPEP)**
-    
-    By University of California, Davis, 4 weeks in 2021
+  
+    Authorized by University of California, Davis 
+    Issued by Coursera, 22 March 2021    
 - **[Essential Design Principles for Tableau](https://www.coursera.org/account/accomplishments/certificate/Z44V2B8MTPBN)**
-
-    By University of California, Davis, 4 weeks in 2021
-- **[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/certificate/YWZM6PRRCXQ4)**
-
-    By University of Michigan, 4 weeks in 2020
+        
+    Authorized by University of California, Davis 
+    Issued by Coursera, 22 January 2021  
 - **[Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/certificate/XLKY7NR5MHNR)**
 
-    By Macquarie University, 6 weeks in 2020
+    Authorized by Macquarie University
+    Issued by Coursera, 17 February 2020 
+- **[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/certificate/YWZM6PRRCXQ4)**
+    
+    Authorized by University of Michigan 
+    Issued by Coursera, 7 February 2020 
 - **[Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/48KHKNJ8CNTW)**
 
-    By University of Michigan, 5 weeks in 2019    
+    Authorized by University of Michigan
+    Issued by Coursera, 30 October 2019    
 - **[SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/RCS4MAWPR3KC)**
-   
-    By University of California, Davis, 4 weeks in 2019
+    
+    Authorized by University of California, Davis 
+    Issued by Coursera, 28 October 2019
