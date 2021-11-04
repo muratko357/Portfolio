@@ -129,8 +129,8 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, St
 ## Certified Courses
 - **[IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP)**
     
-    Authorized by IBM <br/>
-    Issued by Coursera, 30 October 2021 <br/>
+    _Authorized by IBM_ <br/>
+    _Issued by Coursera, 30 October 2021_ <br/>
     This IBM Professional Certificate is earned after successfully completing 9 courses on various topics in Data Analytics. The courses included           working with hands-on with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Relational Databases,           Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation, data analysis, and data visualization. The
     earner of this Certificate has demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating           visualizations & interactive dashboards, and presenting reports to share findings of data analysis, and is now equipped with skills for an entry-       level role in data analytics.    
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LYBC2CT82XHX)**
