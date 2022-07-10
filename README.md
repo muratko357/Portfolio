@@ -124,7 +124,7 @@ I have implemented the triplet loss function, using a pretrained model to map fa
 *	Web-scraping
 
 ## Software
-SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, Statsmodels, Excel, Tableau, IBM Watson Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Flask, and Stata
+SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, Statsmodels, Excel, Tableau, IBM Watson Studio, R-Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Flask, and Stata
 
 ## Certified Courses
 - **[IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP)**
@@ -147,7 +147,7 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, St
 
 - **[Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/EM9XKD8KLAHU)**
 
-    _Authorized by Global Director of Google Career Certicates, Davis_ <br/>
+    _Authorized by Global Director of Google Career Certicates_ <br/>
     _Issued by Coursera, 10 July 2022_    
     
 - **[Fundamentals of GIS](https://www.coursera.org/account/accomplishments/certificate/W2JTUKMBJPEP)**
