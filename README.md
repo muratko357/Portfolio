@@ -144,6 +144,11 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, St
     (10) months course with a capstone project, including Python for Data Science, Databases and SQL, Linear Algebra, statistics, GIT, data pre-             processing, Regression, Classification, Machine Learning Models, Tensorflow, and Keras and more.  
            
 **_Other courses:_**
+
+- **[Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/EM9XKD8KLAHU)
+
+    _Authorized by Global Director of Google Career Certicates, Davis_ <br/>
+    _Issued by Coursera, 10 July 2022_    
     
 - **[Fundamentals of GIS](https://www.coursera.org/account/accomplishments/certificate/W2JTUKMBJPEP)**
   
