@@ -145,7 +145,7 @@ SQL, Python, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, St
            
 **_Other courses:_**
 
-- **[Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/EM9XKD8KLAHU)
+- **[Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/EM9XKD8KLAHU)**
 
     _Authorized by Global Director of Google Career Certicates, Davis_ <br/>
     _Issued by Coursera, 10 July 2022_    
