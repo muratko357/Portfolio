@@ -140,7 +140,7 @@ SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn,
     This certificate is earned after successfully completing 5 courses. The courses iclueded neural network architectures, such as Convolutional Neural     Networks, Recurrent Neural Networks, LSTM's, Transformers, strategies to improve them, such as Dropout, BatchNorm and Xavier/He initialization;         their theoretical concepts, their industry applications using Python and TensorFlow in real world cases such as speech recognition, music synthesis,     chatbots, machine translation, and natural language processing, and more.    
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
     
-    _Issued by DeeoloAI, 15 July 2020_ <br/>
+    _Issued by DeeploAI, 15 July 2020_ <br/>
     (10) months course with a capstone project, including Python for Data Science, Databases and SQL, Linear Algebra, statistics, GIT, data pre-             processing, Regression, Classification, Machine Learning Models, Tensorflow, and Keras and more.  
            
 **_Other courses:_**
