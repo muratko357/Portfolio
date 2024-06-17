@@ -7,11 +7,17 @@ This Portfolio is a compilation of the Data Science and Analytics projects I hav
 
 ## Projects
 
-<img align="left" width="250" height="150" src="Images/Minnesota_interstate_traffic_volume.png"/> **[Minnesota Interstate Traffic Volume](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
+<img align="left" width="250" height="150" src="Images/Minnesota_interstate_traffic_volume.png"/> **[Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
 _Tools: Google Cloud, Google DataFlow, Google BigQuery, Tableau_
 
-As part of the Google Business Intelligence Professional Certificate course, I explored the foundations of business intelligence. I delved into the roles and functions of BI professionals within organizations. Additionally, I gained insights into BI tools, their capabilities, and the crucial role of context in BI projects. My journey continued with data modeling and database design, where I learned to create efficient pipelines for seamless data movement. I also discovered optimization techniques to maintain smooth workflows. Finally, I focused on building interactive dashboards to monitor data over time, answering specific business questions. Presenting my work effectively to stakeholders was the icing on the cake.
+This project, built as the final project for the Google Business Intelligence Professional Certificate course, demonstrates my skills in Business Intelligence (BI), data pipelines, and dashboard creation. Key Achievements:
+- Developed a comprehensive BI project plan.
+- Constructed a data pipeline using Google DataFlow for efficient data movement from raw sources to BigQuery.
+- Created an interactive dashboard in Tableau to visualize and analyze Minnesota interstate traffic volume data.
+- Analyzed the impact of weather conditions, holidays, and time of day on traffic volume.
+- Identified optimal periods for construction and repair activities based on traffic patterns.
+[View Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 <img align="left" width="250" height="150" src="Images/dashboard.png"/> **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
 
