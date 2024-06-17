@@ -11,13 +11,14 @@ This Portfolio is a compilation of the Data Science and Analytics projects I hav
 
 _Tools: Python, pandas, plotly, dash_
 
-I have created a reactive and web-based dashboard application which enables interactive and real time visualization of the data, in this case, to visualize US domestic airline performance.<br/><br/>                                                                                                                                                                                     
+I developed an interactive, web-based dashboard application that visualizes the performance of US domestic airlines in real time.
+<br/><br/>                                                                                                                                                                                     
        
 <img align="left" width="250" height="150" src="Images/rain.jpg"/> **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)** 
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
 
-I have built a machine-learning classification model to make a prediction for the weather, whether it rains or not tomorrow. I have worked with the data from Australia in order to run the model and get results. I have checked accuracy scores and computation time of various models to find the best model that fits the data, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine.	
+I built a machine-learning classification model to predict whether it will rain tomorrow using Australian weather data. I evaluated various models, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine, to determine the best fit based on accuracy and computation time.	
 <br/>
 
 
@@ -25,14 +26,14 @@ I have built a machine-learning classification model to make a prediction for th
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, sklearn_
 
-Via data visualization, I have conducted an exploratory data analysis on the loan data of LendingClub. Then I have applied Random Forest and Decision Tree models of machine learning to predict whether a particular loan would be paid back in full. The model has included variables related to customers, e.g., purpose of the loan, interest rate of the loan, monthly installments owed by the borrower if the loan is funded, income of the borrower, debt-to-income ratio, FICO credit score of the borrower, number of days the borrower has had a credit line, and so on.
+I performed an exploratory data analysis on LendingClub loan data using data visualization techniques. Then, I applied Random Forest and Decision Tree models to predict loan repayment outcomes, considering variables such as loan purpose, interest rate, monthly installments, borrower income, debt-to-income ratio, FICO score, and credit line age.
 
 
 <img align="left" width="250" height="150" src="Images/banknote-authentication.jpeg">**[Bank Note Authentication](https://github.com/muratko357/ML_models/blob/master/banknote-authentication.ipynb)**
 
 _Tools: Python, pandas, matplotlib, seaborn, sklearn, tensorflow_
 
-I have used the Bank Authentication Data Set of UCI and a Deep Neural Network Classifier to predict if a bank note is authentic or not. The data consists of 5 varibales: variance of Wavelet Transformed image (continuous), skewness of Wavelet Transformed image (continuous), curtosis of Wavelet Transformed image (continuous), entropy of image (continuous), and class (integer) indicating whether or not a bank note was authentic. 
+Using the UCI Bank Authentication Data Set, I employed a Deep Neural Network Classifier to predict the authenticity of bank notes. The dataset includes features such as the variance, skewness, kurtosis, and entropy of Wavelet Transformed images. 
 <br/>
 
 
@@ -40,7 +41,7 @@ I have used the Bank Authentication Data Set of UCI and a Deep Neural Network Cl
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn_
 
-Using data visulation tools and crosstabulation, I have analyzed the data that covers the number of Uber pickup calls in April 2014 in New York. Findings of the analysis gives information for the business and drivers based on the geographic location and the time of the calls.
+I analyzed Uber pickup data from April 2014 in New York using data visualization and crosstabulation techniques. The analysis provides insights for business and drivers based on the geographic location and timing of the calls.
 <br/>
 
 
@@ -48,7 +49,7 @@ Using data visulation tools and crosstabulation, I have analyzed the data that c
 
 _Tools: Tableau_
 
-I have completed various tasks in order to answer business questions in relation to sales, profits, and shipment status of orders. For this purpose, I have created various dashboards using crosstables, graphics, and maps in which I applied design principles of data visualization.
+I created various dashboards to answer business questions related to sales, profits, and shipment statuses of orders, applying design principles of data visualization.
 <br/>
 
 
@@ -56,7 +57,7 @@ I have completed various tasks in order to answer business questions in relation
 
 _Tools: ArcGIS_
 
-The data for California 2012 electoral politics involves geographic information as well as numbers of votes in favor of genetically modified organisms-GMOs in food and total voters specific to geographical locations. I have a created a map that displays a normalized distribution of 'yes' votes by county in the California state. I have created a PDF format of the map’s layout (to see please **[click](https://github.com/muratko357/muratko357.github.io/blob/main/Images/California%20electoral%20politics%202012.pdf)**) and a map package of the map which is shared in my ArGIS account **[here](https://arcg.is/vOr9v)**.
+I analyzed the 2012 electoral data for California, which includes geographic information and vote counts for GMOs in food. I created a map displaying the normalized distribution of 'yes' votes by county. The PDF format of the map’s layout can be seen (**[here](https://github.com/muratko357/muratko357.github.io/blob/main/Images/California%20electoral%20politics%202012.pdf)**) and the map package is shared on my ArcGIS account **[here](https://arcg.is/vOr9v)**.
 <br/>
 
 
@@ -64,7 +65,7 @@ The data for California 2012 electoral politics involves geographic information 
 
 _Tools: Python, numpy, pandas, geopandas, matplotlib, json, bokeh, & Tableau_
 
-I have conducted exploratory analyses on violent and sexual crime across municipalities of the Netherlands and neighborhoods of the Amsterdam city. Using libraries of Python, I have created a static choropleth and its interactive version. I have also analyzed the data with another tool,  Tableau, which resulted in better outputs (see the [dashboards](https://public.tableau.com/views/Netherlandscrimerateofviolentandsexualcrimebymunicipality/ViolentandSexualCrimeinNetherlands2018?:language=en-US&:display_count=n&:origin=viz_share_link)
+I conducted exploratory analyses on violent and sexual crimes across Dutch municipalities and Amsterdam neighborhoods. Using Python libraries, I created static and interactive choropleths and further analyzed the data with Tableau for better visualization outputs (see the [dashboards](https://public.tableau.com/views/Netherlandscrimerateofviolentandsexualcrimebymunicipality/ViolentandSexualCrimeinNetherlands2018?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br/>
 
 
@@ -72,7 +73,7 @@ I have conducted exploratory analyses on violent and sexual crime across municip
 
 _Tools: Python, pandas, matplotlib, seaborn, folium_
 
-I have conducted an exploratory data analysis on the 2016 crime dataset of San Francisco through using data visualization tools, crosstabulation and crime mapping. The map displays the crime rates of the districts of the city.    
+I performed an exploratory data analysis on San Francisco's 2016 crime dataset using visualization tools, crosstabulation, and crime mapping to display crime rates across city districts.    
 <br/>
 
 
@@ -80,7 +81,7 @@ I have conducted an exploratory data analysis on the 2016 crime dataset of San F
 
 _Tools: Python, pandas, BeautifulSoup, nltk, re, threading, time_
 
-In partial fulfillment of the requirements for the graduation of Data Science & Machine Learning Course, I have completed the part II of the project and created an automatic web-scraping and text summarization tool through using Natural Language Processing(NLP) techniques. The authomatic tool collects and processes official reports and statements about COVID-19 from official sources and summarizes them. In addition, it collects and updates readily available summaries of COVID-19 news from the media. The goal of the tool is to enable public to easily follow official advices, reports, and news on this matter.
+For my Data Science & Machine Learning course, I created an automatic web-scraping and text summarization tool using Natural Language Processing (NLP). This tool collects and processes official COVID-19 reports and media summaries to help the public easily follow official advice and news.
 <br/>
 
 
@@ -88,7 +89,7 @@ In partial fulfillment of the requirements for the graduation of Data Science & 
 
 _Tools: Python, numpy, pandas, os, sys, scipy, imageio, matplotlib, tersorflow, pprint_
 
-I have implemented the Neural Style Transfer(NST) NST algoritm to generate a novel artistic image of the Louvre museum in Paris in the style of a painting by Claude Monet. The algoritm uses a previously trained 19-layer version of the VGG network. Therefore, the network model has already been trained on the very large ImageNet database, and thus has learned to recognize a variety of low level features (at the shallower layers) and high level features (at the deeper layers). The algoritm of this project has successfully transferred this learning for the puropose of this project.
+I implemented the Neural Style Transfer (NST) algorithm to generate an artistic image of the Louvre museum in Paris in the style of a Claude Monet painting. The algorithm uses a pre-trained 19-layer VGG network model.
 <br/>
 
 
@@ -96,7 +97,7 @@ I have implemented the Neural Style Transfer(NST) NST algoritm to generate a nov
 
 _Tools: Python, numpy, argparse, os, matplotlib, scipy, PIL, tensorflow, keras, yolo utilities provided by deeplearning.ai_
 
-I have applied the You Only Look Once-YOLO model to car detection on a car detection dataset. The project uses pre-trained weights since the YOLO model is very computationally expensive to train. On the other hand, YOLO is a popular algorithm with its high accuracy and being able to run in real-time as it requires only one forward propagation pass through the network to make predictions.
+I applied the You Only Look Once (YOLO) model for car detection using a pre-trained dataset. YOLO is known for its high accuracy and real-time processing capabilities.
 <br/>
 
 
@@ -104,44 +105,54 @@ I have applied the You Only Look Once-YOLO model to car detection on a car detec
 
 _Tools: Python, numpy, pandas, keras, tensorflow, cv2, os, utilities provided by deeplearning.ai_ 
 
-I have implemented the triplet loss function, using a pretrained model to map face images into 128-dimensional encodings and using these encodings to perform face verification and recognition tasks. Face Verification is used in applications to verify the identity of a specific person, e.g., face-verification security-systems of smart phones, while Face Recognition can tell who this person is through searching databases.
+I implemented the triplet loss function using a pretrained model to map face images into 128-dimensional encodings for face verification and recognition tasks. Face Verification is used for identity verification in applications like smartphone security systems, while Face Recognition identifies individuals by searching databases.
 <br/>
 
 
 ## Areas of expertise
-*	Research methods and statistics
-*	Data analysis
-*	Public policy analysis
+*	Research methods
+*	Data analytics
 *	Crime analysis
 *	Developing policies for safety and crime prevention
 
 ## Areas of experience
 
-*	Visual analytics
 *	Machine Learning
 *	Deep Learning
 *	GIS mapping
-*	Web-scraping
-
+   
 ## Software
-SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, Statsmodels, Excel, Power BI, Tableau, IBM Watson Studio, R-Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, Flask, and Stata
+SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, Statsmodels, Excel, Power BI, Tableau, IBM Watson Studio, R-Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, and Stata
 
 ## Certified Courses
+
+- **[Google Business Intelligence Professional Certificate]([https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP](https://coursera.org/share/68a5c34ecfa2aa9aa0eb1804e7a08b5a))**
+    
+    _Authorized by Google_ <br/>
+    _Issued by Coursera, 14 June 2024_ <br/>
+    
+Completed an intensive three-course program (Foundations of BI, Data Models and Pipelines, Dashboards & Reports) designed for entry-level Business Intelligence roles. Through hands-on projects and practical assessments, I mastered the creation of processes that transform raw data into actionable insights for strategic business decisions. Key achievements include:
+
+*	Developing a comprehensive BI project plan.
+*	Constructing data pipelines and applying ETL processes with Google DataFlow and BigQuery to achieve organizational goals.
+*	Utilizing BI reporting and dashboard tools to effectively communicate data insights to stakeholders.
+
 - **[IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP)**
     
     _Authorized by IBM_ <br/>
     _Issued by Coursera, 30 October 2021_ <br/>
-    This IBM Professional Certificate is earned after successfully completing 9 courses on various topics in Data Analytics. The courses included           working with hands-on with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Relational Databases,           Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation, data analysis, and data visualization. The
-    earner of this Certificate has demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating           visualizations & interactive dashboards, and presenting reports to share findings of data analysis, and is now equipped with skills for an entry-       level role in data analytics.    
+    This IBM Professional Certificate was earned after successfully completing 9 courses on various topics in Data Analytics. The courses included hands-on work with various data sources, project scenarios, and data analysis tools, including Excel, SQL, Relational Databases, Python, Jupyter Notebooks, and Cognos Analytics. I gained practical experience with data manipulation, data analysis, and data visualization. I demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating visualizations & interactive dashboards, and presenting reports to share findings of data analysis. This certificate equips me with skills for an entry-level role in data analytics.
+      
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LYBC2CT82XHX)**
 
     _Authorized by DeepLearning.AI_ <br/>
     _Issued by Coursera, 12 March 2020_ <br/>
-    This certificate is earned after successfully completing 5 courses. The courses iclueded neural network architectures, such as Convolutional Neural     Networks, Recurrent Neural Networks, LSTM's, Transformers, strategies to improve them, such as Dropout, BatchNorm and Xavier/He initialization;         their theoretical concepts, their industry applications using Python and TensorFlow in real world cases such as speech recognition, music synthesis,     chatbots, machine translation, and natural language processing, and more.    
+    This certificate was earned after successfully completing 5 courses. The courses covered neural network architectures, such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and strategies to improve them, such as Dropout, BatchNorm, and Xavier/He initialization. The courses also included their theoretical concepts, industry applications using Python and TensorFlow in real-world cases such as speech recognition, music synthesis, chatbots, machine translation, and natural language processing.
+      
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
     
     _Issued by DeeploAI, 15 July 2020_ <br/>
-    (10) months course with a capstone project, including Python for Data Science, Databases and SQL, Linear Algebra, statistics, GIT, data pre-             processing, Regression, Classification, Machine Learning Models, Tensorflow, and Keras and more.  
+    This 10-month course, including a capstone project, covered Python for Data Science, Databases and SQL, Linear Algebra, Statistics, GIT, data pre-processing, Regression, Classification, Machine Learning Models, TensorFlow, and Keras, and more.  
            
 **_Other courses:_**
 
