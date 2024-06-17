@@ -1,6 +1,6 @@
 # Murat Koçak
 # Data Science and Analytics Portfolio
-This Portfolio is a compilation of the Data Science and Analytics projects I have done for learning. It also contains my core competencies and certificates and is being updated on regular basis.
+This Portfolio is a compilation of the Data Science and Analytics projects I have done for learning. It also contains my core competencies and certificates.
 
 - **Email:** muratko357@gmail.com
 - **LinkedIn:** [linkedin.com/in/muratko357](https://www.linkedin.com/in/muratko357/)
@@ -126,12 +126,11 @@ SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn,
 
 ## Certified Courses
 
-- **[Google Business Intelligence Professional Certificate]([https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP](https://coursera.org/share/68a5c34ecfa2aa9aa0eb1804e7a08b5a))**
+- **[Google Business Intelligence Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP](https://coursera.org/share/68a5c34ecfa2aa9aa0eb1804e7a08b5a)**
     
     _Authorized by Google_ <br/>
     _Issued by Coursera, 14 June 2024_ <br/>
-    
-Completed an intensive three-course program (Foundations of BI, Data Models and Pipelines, Dashboards & Reports) designed for entry-level Business Intelligence roles. Through hands-on projects and practical assessments, I mastered the creation of processes that transform raw data into actionable insights for strategic business decisions. Key achievements include:
+    Completed an intensive three-course program (Foundations of BI, Data Models and Pipelines, Dashboards & Reports) designed for entry-level Business Intelligence roles. Through hands-on projects and practical assessments, I mastered the creation of processes that transform raw data into actionable insights for strategic business decisions. Key achievements include:
 
 *	Developing a comprehensive BI project plan.
 *	Constructing data pipelines and applying ETL processes with Google DataFlow and BigQuery to achieve organizational goals.
