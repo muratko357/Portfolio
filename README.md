@@ -7,7 +7,7 @@ This Portfolio is a compilation of the Data Science and Analytics projects I hav
 
 ## Projects
 
-<img align="left" width="250" height="150" src="Images/Minnesota_interstate_traffic_volume.png"/> **[Minnesota_interstate_traffic_volume]**(https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+<img align="left" width="250" height="150" src="Images/Minnesota_interstate_traffic_volume.png"/> **[Minnesota_interstate_traffic_volume](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
 _Tools: Google Cloud, Google DataFlow, Google BigQuery, Tableau_
 
