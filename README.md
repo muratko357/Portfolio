@@ -124,9 +124,9 @@ SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn,
     _Issued by Coursera, 14 June 2024_ <br/>
     
     Completed an intensive three-course program (Foundations of BI, Data Models and Pipelines, Dashboards & Reports) designed for entry-level Business Intelligence roles. Through hands-on projects and practical assessments, I mastered the creation of processes that transform raw data into actionable insights for strategic business decisions. Key achievements include:
-         *	Developing a comprehensive BI project plan.
-         *	Constructing data pipelines and applying ETL processes with Google DataFlow and BigQuery to achieve organizational goals.
-         *	Utilizing BI reporting and dashboard tools to effectively communicate data insights to stakeholders.
+         *    Developing a comprehensive BI project plan.
+         *    Constructing data pipelines and applying ETL processes with Google DataFlow and BigQuery to achieve organizational goals.
+         *    Utilizing BI reporting and dashboard tools to effectively communicate data insights to stakeholders.
 
 - **[IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP)**
     
