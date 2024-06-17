@@ -122,27 +122,31 @@ SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn,
     
     _Authorized by Google_ <br/>
     _Issued by Coursera, 14 June 2024_ <br/>
+    
     Completed an intensive three-course program (Foundations of BI, Data Models and Pipelines, Dashboards & Reports) designed for entry-level Business Intelligence roles. Through hands-on projects and practical assessments, I mastered the creation of processes that transform raw data into actionable insights for strategic business decisions. Key achievements include:
 
-*	Developing a comprehensive BI project plan.
-*	Constructing data pipelines and applying ETL processes with Google DataFlow and BigQuery to achieve organizational goals.
-*	Utilizing BI reporting and dashboard tools to effectively communicate data insights to stakeholders.
+       *	Developing a comprehensive BI project plan.
+       *	Constructing data pipelines and applying ETL processes with Google DataFlow and BigQuery to achieve organizational goals.
+       *	Utilizing BI reporting and dashboard tools to effectively communicate data insights to stakeholders.
 
 - **[IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP)**
     
     _Authorized by IBM_ <br/>
     _Issued by Coursera, 30 October 2021_ <br/>
+    
     This IBM Professional Certificate was earned after successfully completing 9 courses on various topics in Data Analytics. The courses included hands-on work with various data sources, project scenarios, and data analysis tools, including Excel, SQL, Relational Databases, Python, Jupyter Notebooks, and Cognos Analytics. I gained practical experience with data manipulation, data analysis, and data visualization. I demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating visualizations & interactive dashboards, and presenting reports to share findings of data analysis. This certificate equips me with skills for an entry-level role in data analytics.
       
 - **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LYBC2CT82XHX)**
 
     _Authorized by DeepLearning.AI_ <br/>
     _Issued by Coursera, 12 March 2020_ <br/>
+    
     This certificate was earned after successfully completing 5 courses. The courses covered neural network architectures, such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and strategies to improve them, such as Dropout, BatchNorm, and Xavier/He initialization. The courses also included their theoretical concepts, industry applications using Python and TensorFlow in real-world cases such as speech recognition, music synthesis, chatbots, machine translation, and natural language processing.
       
 - **[Data Science & Machine Learning](https://www.deeploai.com/)**
     
     _Issued by DeeploAI, 15 July 2020_ <br/>
+    
     This 10-month course, including a capstone project, covered Python for Data Science, Databases and SQL, Linear Algebra, Statistics, GIT, data pre-processing, Regression, Classification, Machine Learning Models, TensorFlow, and Keras, and more.  
            
 **_Other courses:_**
