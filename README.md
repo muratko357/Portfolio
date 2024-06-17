@@ -65,7 +65,7 @@ I analyzed the 2012 electoral data for California, which includes geographic inf
 
 _Tools: Python, numpy, pandas, geopandas, matplotlib, json, bokeh, & Tableau_
 
-I conducted exploratory analyses on violent and sexual crimes across Dutch municipalities and Amsterdam neighborhoods. Using Python libraries, I created static and interactive choropleths and further analyzed the data with Tableau for better visualization outputs (see the [dashboards](https://public.tableau.com/views/Netherlandscrimerateofviolentandsexualcrimebymunicipality/ViolentandSexualCrimeinNetherlands2018?:language=en-US&:display_count=n&:origin=viz_share_link)
+I conducted exploratory analyses on violent and sexual crimes across Dutch municipalities and Amsterdam neighborhoods. Using Python libraries, I created static and interactive choropleths and further analyzed the data with Tableau for better visualization outputs (see the [dashboards])(https://public.tableau.com/views/Netherlandscrimerateofviolentandsexualcrimebymunicipality/ViolentandSexualCrimeinNetherlands2018?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br/>
 
 
@@ -126,7 +126,7 @@ SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn,
 
 ## Certified Courses
 
-- **[Google Business Intelligence Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP](https://coursera.org/share/68a5c34ecfa2aa9aa0eb1804e7a08b5a)**
+- **[Google Business Intelligence Professional Certificate]((https://coursera.org/share/68a5c34ecfa2aa9aa0eb1804e7a08b5a)**
     
     _Authorized by Google_ <br/>
     _Issued by Coursera, 14 June 2024_ <br/>
