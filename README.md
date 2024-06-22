@@ -135,7 +135,7 @@ SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn,
     _Authorized by Google_ <br/>
     _Issued by Coursera, 14 June 2024_ <br/>
     
-    This intensive three-course program from Google prepared me for entry-level Business Intelligence roles. Through hands-on projects, I explored BI fundamentals, data modeling & pipelines, and interactive dashboard creation for data analysis and communication.
+    In this intensive three-course program, I gained the skills necessary for entry-level Business Intelligence roles. While I already possessed most of these skills, I enrolled in the program to earn the certificate and gain deeper insights into BI industry applications. Throughout the course, I worked with tools such as Google Cloud, Google DataFlow, Google BigQuery, SQL, and Tableau.
 
 - **[IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QDFLN35MYTKP)**
     
