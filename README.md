@@ -120,8 +120,7 @@ I applied the You Only Look Once (YOLO) model for car detection using a pre-trai
 _Tools: Python, numpy, pandas, keras, tensorflow, cv2, os, utilities provided by deeplearning.ai_ 
 
 I implemented the triplet loss function using a pre-trained model to map face images into 128-dimensional encodings for face verification and recognition tasks. Face Verification is used for identity verification in applications like smartphone security systems, while Face Recognition identifies individuals by searching databases.
-
-<br/>
+<br/><br/>
 
 ## Areas of expertise
 *	Research methods
