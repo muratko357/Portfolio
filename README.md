@@ -31,6 +31,7 @@ _Tools: Python, pandas, plotly, dash_
 
 I developed an interactive, web-based dashboard application that visualizes the performance of US domestic airlines in real time.
 
+
 ### **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)** 
 
 <img align="left" width="250" height="150" alt="Weather Prediction" style="margin: 0 10px 0 0;" src="Images/rain.jpg"/> 
