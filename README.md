@@ -7,7 +7,7 @@ This Portfolio is a compilation of the Data Science and Analytics projects I hav
 
 ## Projects
 
-<img align="left" width="250" height="160" src="Images/Inventory%20dashboard.png""/> **[Inventory Management Dashboard](inventory%20data%20management%20dashboard.pbix)**
+<img align="left" width="250" height="160" src="Images/Inventory%20dashboard.png"/> **[Inventory Management Dashboard](inventory%20data%20management%20dashboard.pbix)**
 
 _Tools: Power BI, DAX_
 
