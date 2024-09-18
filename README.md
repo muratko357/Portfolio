@@ -77,7 +77,7 @@ I created various dashboards to answer business questions related to sales, prof
 
 _Tools: ArcGIS_
 
-I analyzed the 2012 electoral data for California, which includes geographic information and vote counts for GMOs in food. I created a map displaying the normalized distribution of 'yes' votes by county. The PDF format of the map’s layout can be seen (**[here](https://github.com/muratko357/muratko357.github.io/blob/main/Images/California%20electoral%20politics%202012.pdf)**) and the map package is shared on my ArcGIS account **[here](https://arcg.is/vOr9v)** <br/>
+I conducted an analysis of California’s 2012 electoral data, focusing on geographic information and vote counts related to the proposition on GMOs in food. Using this data, I created a map that visualizes the normalized distribution of 'yes' votes across each county. You can view the layout of the map in PDF format **[here](https://github.com/muratko357/muratko357.github.io/blob/main/Images/California%20electoral%20politics%202012.pdf)**, and access the full map package on my ArcGIS account **[here](https://arcg.is/vOr9v)**.
 
 ### **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
