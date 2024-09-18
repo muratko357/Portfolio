@@ -22,13 +22,7 @@ This dashboard leverages Power BI to transform publicly available inventory data
 
 _Tools: Google Cloud, Google DataFlow, Google BigQuery, Tableau_
 
-This project, built as the final project for the Google Business Intelligence Professional Certificate course, demonstrates my skills in Business Intelligence (BI), data pipelines, and dashboard creation. Key Achievements:
-- Developed a comprehensive BI project plan.
-- Constructed a data pipeline using Google DataFlow for efficient data movement from raw sources to BigQuery.
-- Created an interactive dashboard in Tableau to visualize and analyze Minnesota interstate traffic volume data.
-- Analyzed the impact of weather conditions, holidays, and time of day on traffic volume.
-- Identified optimal periods for construction and repair activities based on traffic patterns.
-[View Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+As the capstone project for the Google Business Intelligence Professional Certificate, this analysis showcases my expertise in building BI solutions, data pipelines, and interactive visualizations. The project involved developing a detailed BI project plan, constructing a data pipeline via Google DataFlow to transport data to BigQuery, and creating a Tableau dashboard that visualizes Minnesota interstate traffic volume. The dashboard also explores the effects of weather, holidays, and time of day on traffic patterns, providing insights into the best times for road maintenance and construction. [View Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 ### **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
@@ -61,7 +55,7 @@ _Tools: Python, numpy, pandas, matplotlib, seaborn, sklearn_
 
 I performed an exploratory data analysis on LendingClub loan data using data visualization techniques. Then, I applied Random Forest and Decision Tree models to predict loan repayment outcomes, considering variables such as loan purpose, interest rate, monthly installments, borrower income, debt-to-income ratio, FICO score, and credit line age.
 <br/>
-<br/>
+
 ### **[Bank Note Authentication](https://github.com/muratko357/ML_models/blob/master/banknote-authentication.ipynb)**
 
 <img align="left" width="250" height="150" alt="Bank Note Authentication" style="margin: 10px;" src="Images/banknote-authentication.jpeg"> 
@@ -69,9 +63,8 @@ I performed an exploratory data analysis on LendingClub loan data using data vis
 _Tools: Python, pandas, matplotlib, seaborn, sklearn, tensorflow_
 
 Using the UCI Bank Authentication Data Set, I employed a Deep Neural Network Classifier to predict the authenticity of bank notes. The dataset includes features such as the variance, skewness, kurtosis, and entropy of Wavelet Transformed images.
-
 <br/>
-
+<br/>
 ### **[Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
 
 <img align="left" width="250" height="140" alt="Uber Data Analysis" style="margin: 10px;" src="Images/Uber%20data%20analysis.png"> 
@@ -89,7 +82,6 @@ _Tools: Tableau_
 
 I created various dashboards to answer business questions related to sales, profits, and shipment statuses of orders, applying design principles of data visualization.
 
-<br/>
 <br/>
 
 ### **[Analysis of the Dataset for California Electoral Politics](https://arcg.is/vOr9v)**
