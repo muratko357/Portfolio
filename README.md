@@ -7,14 +7,14 @@ This Portfolio is a compilation of the Data Science and Analytics projects I hav
 
 ## Projects
 
-<img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 10px;" src="Images/Inventory%20dashboard.png"/> #**[Inventory Management Dashboard](inventory%20data%20management%20dashboard.pbix)**
+<img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 10px;" src="Images/Inventory%20dashboard.png"/> # **[Inventory Management Dashboard](inventory%20data%20management%20dashboard.pbix)**
 
 _Tools: Power BI, DAX_
 
 This dashboard leverages Power BI to transform publicly available inventory data into actionable business insights. Specifically designed to support supply chain and inventory management, the dashboard offers a dynamic visual representation of data analytics. It aids stakeholders in making informed decisions about inventory levels, sales trends, and purchasing requirements, ensuring efficient management of resources. 
 
 
-<img align="left" width="250" height="160" src="Images/Minnesota_interstate_traffic_volume.png"/> **[Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
+<img align="left" width="250" height="160" alt="Inventory Dashboard" style="margin: 10px;" src="Images/Minnesota_interstate_traffic_volume.png"/> # **[Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
 _Tools: Google Cloud, Google DataFlow, Google BigQuery, Tableau_
 
@@ -26,14 +26,14 @@ This project, built as the final project for the Google Business Intelligence Pr
 - Identified optimal periods for construction and repair activities based on traffic patterns.
 [View Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-<img align="left" width="250" height="150" src="Images/dashboard.png"/> **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
+<img align="left" width="250" height="150" alt="Airline Flights Performance" style="margin: 10px;" src="Images/dashboard.png"/> # **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
 
 _Tools: Python, pandas, plotly, dash_
 
 I developed an interactive, web-based dashboard application that visualizes the performance of US domestic airlines in real time.
 <br/><br/>                                                                                                                                                                                     
        
-<img align="left" width="250" height="150" src="Images/rain.jpg"/> **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)** 
+<img align="left" width="250" height="150" alt="Weather Prediction" style="margin: 10px;" src="Images/rain.jpg"/> # **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)** 
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
 
@@ -41,14 +41,14 @@ I built a machine-learning classification model to predict whether it will rain 
 <br/>
 
 
-<img align="left" width="250" height="160" src="Images/LendingClub project.png">**[LendingClub Data Analysis: Predicting Payments](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)**
+<img align="left" width="250" height="160" alt="LendingClub Data Analysis" style="margin: 10px;" src="Images/LendingClub project.png"> # **[LendingClub Data Analysis: Predicting Payments](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)**
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, sklearn_
 
 I performed an exploratory data analysis on LendingClub loan data using data visualization techniques. Then, I applied Random Forest and Decision Tree models to predict loan repayment outcomes, considering variables such as loan purpose, interest rate, monthly installments, borrower income, debt-to-income ratio, FICO score, and credit line age.
 
 
-<img align="left" width="250" height="150" src="Images/banknote-authentication.jpeg">**[Bank Note Authentication](https://github.com/muratko357/ML_models/blob/master/banknote-authentication.ipynb)**
+<img align="left" width="250" height="150" alt="Bank Note Authentication" style="margin: 10px;" src="Images/banknote-authentication.jpeg"> # **[Bank Note Authentication](https://github.com/muratko357/ML_models/blob/master/banknote-authentication.ipynb)**
 
 _Tools: Python, pandas, matplotlib, seaborn, sklearn, tensorflow_
 
@@ -56,7 +56,7 @@ Using the UCI Bank Authentication Data Set, I employed a Deep Neural Network Cla
 <br/>
 
 
-<img align="left" width="250" height="140" src="Images/Uber%20data%20analysis.png"> **[Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
+<img align="left" width="250" height="140" alt="Uber Data Analysis" style="margin: 10px;" src="Images/Uber%20data%20analysis.png"> # **[Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn_
 
@@ -64,7 +64,7 @@ I analyzed Uber pickup data from April 2014 in New York using data visualization
 <br/>
 
 
-<img align="left" width="250" height="140" src="Images/Customer scatterplot.png">**[Superstore Dataset Analysis: Sales, Profits, and Shipment](https://public.tableau.com/profile/murat.kocak#!/)**
+<img align="left" width="250" height="140" alt="Superstore Dataset Analysis" style="margin: 10px;" src="Images/Customer scatterplot.png"> # **[Superstore Dataset Analysis: Sales, Profits, and Shipment](https://public.tableau.com/profile/murat.kocak#!/)**
 
 _Tools: Tableau_
 
@@ -72,7 +72,7 @@ I created various dashboards to answer business questions related to sales, prof
 <br/>
 
 
-<img align="left" width="250" height="170" src="Images/California_electoral_politics_2012 screenshot.png"> **[Analysis of the Dataset for California Electoral Politics](https://arcg.is/vOr9v)**
+<img align="left" width="250" height="170" alt="California Electoral Politics" style="margin: 10px;" src="Images/California_electoral_politics_2012 screenshot.png"> # **[Analysis of the Dataset for California Electoral Politics](https://arcg.is/vOr9v)**
 
 _Tools: ArcGIS_
 
@@ -80,7 +80,7 @@ I analyzed the 2012 electoral data for California, which includes geographic inf
 <br/>
 
 
-<img align="left" width="250" height="150" src="Images/San Francisco Crime Map.png"> **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
+<img align="left" width="250" height="150" alt="San Francisco Crime Data Analysis" style="margin: 10px;" src="Images/San Francisco Crime Map.png"> # **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
 _Tools: Python, pandas, matplotlib, seaborn, folium_
 
@@ -88,7 +88,7 @@ I performed an exploratory data analysis on San Francisco's 2016 crime dataset u
 <br/>
 
 
-<img align="left" width="250" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpsU5BDHW2JysQldmMy0XtNFrRglTInR302w&usqp=CAU"> **[COVID-19 Group Project-Part II: Creating an Automatic Web-Scraping and Text Summarization Tool](https://github.com/muratko357/NLP_coronavirus_project)**
+<img align="left" width="250" height="150" alt="COVID-19 Group Project" style="margin: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpsU5BDHW2JysQldmMy0XtNFrRglTInR302w&usqp=CAU"> # **[COVID-19 Group Project-Part II: Creating an Automatic Web-Scraping and Text Summarization Tool](https://github.com/muratko357/NLP_coronavirus_project)**
 
 _Tools: Python, pandas, BeautifulSoup, nltk, re, threading, time_
 
@@ -96,7 +96,7 @@ For my Data Science & Machine Learning course, I created an automatic web-scrapi
 <br/>
 
 
-<img align="left" width="250" height="150" src="Images/generated_image.jpg"> **[Art Generation with Neural Style Transfer](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Art_Generation_with_Neural_Style_Transfe.ipynb)**
+<img align="left" width="250" height="150" alt="Art Generation with Neural Style Transfer" style="margin: 10px;" src="Images/generated_image.jpg"> # **[Art Generation with Neural Style Transfer](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Art_Generation_with_Neural_Style_Transfe.ipynb)**
 
 _Tools: Python, numpy, pandas, os, sys, scipy, imageio, matplotlib, tersorflow, pprint_
 
@@ -104,7 +104,7 @@ I implemented the Neural Style Transfer (NST) algorithm to generate an artistic 
 <br/>
 
 
-<img align="left" width="250" height="150" src="Images/car detection.png"> **[Car Detection for Autonomous Driving Application](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Autonomous_driving_application_Car_detection.ipynb)**
+<img align="left" width="250" height="150" alt="Car Detection for Autonomous Driving Application" style="margin: 10px;" src="Images/car detection.png"> # **[Car Detection for Autonomous Driving Application](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Autonomous_driving_application_Car_detection.ipynb)**
 
 _Tools: Python, numpy, argparse, os, matplotlib, scipy, PIL, tensorflow, keras, yolo utilities provided by deeplearning.ai_
 
@@ -112,7 +112,7 @@ I applied the You Only Look Once (YOLO) model for car detection using a pre-trai
 <br/>
 
 
-<img align="left" width="250" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvMWEs2FveiYw9UMIY1RK54QQCcLimSG0lbjvuKJU3kCaTgY4wz613Vxzk8D6RTEXERc&usqp=CAU"> **[Face Verification & Face Recognition](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)**
+<img align="left" width="250" height="150" alt="Face Verification & Face Recognition" style="margin: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvMWEs2FveiYw9UMIY1RK54QQCcLimSG0lbjvuKJU3kCaTgY4wz613Vxzk8D6RTEXERc&usqp=CAU"> # **[Face Verification & Face Recognition](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)**
 
 _Tools: Python, numpy, pandas, keras, tensorflow, cv2, os, utilities provided by deeplearning.ai_ 
 
