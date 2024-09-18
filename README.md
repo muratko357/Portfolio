@@ -39,6 +39,7 @@ _Tools: Python, pandas, plotly, dash_
 
 I developed an interactive, web-based dashboard application that visualizes the performance of US domestic airlines in real time.
 
+
 <br/>
 <br/>
 
@@ -89,6 +90,7 @@ _Tools: Tableau_
 I created various dashboards to answer business questions related to sales, profits, and shipment statuses of orders, applying design principles of data visualization.
 
 <br/>
+<br/>
 
 ### **[Analysis of the Dataset for California Electoral Politics](https://arcg.is/vOr9v)**
 
@@ -109,6 +111,7 @@ I performed an exploratory data analysis on San Francisco's 2016 crime dataset u
 
 <br/>
 <br/>
+
 
 ### **[COVID-19 Group Project-Part II: Creating an Automatic Web-Scraping and Text Summarization Tool](https://github.com/muratko357/NLP_coronavirus_project)**
 
@@ -137,6 +140,7 @@ _Tools: Python, numpy, argparse, os, matplotlib, scipy, PIL, tensorflow, keras, 
 I applied the You Only Look Once (YOLO) model for car detection using a pre-trained dataset. YOLO is known for its high accuracy and real-time processing capabilities.
 <br/>
 <br/>
+
 ### **[Face Verification & Face Recognition](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)**
 
 <img align="left" width="250" height="150" alt="Face Verification & Face Recognition" style="margin: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvMWEs2FveiYw9UMIY1RK54QQCcLimSG0lbjvuKJU3kCaTgY4wz613Vxzk8D6RTEXERc&usqp=CAU"> 
