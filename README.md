@@ -7,6 +7,13 @@ This Portfolio is a compilation of the Data Science and Analytics projects I hav
 
 ## Projects
 
+<img align="left" width="250" height="160" src="Images/Inventory_dashboard.png"/> **[Inventory Management Dashboard](src="Inventory_Management_Dahboard.pbix)**
+
+_Tools: Power BI, DAX_
+
+This Inventory Management Dashboard leverages Power BI to transform publicly available inventory data into actionable business insights. Specifically designed to support supply chain and inventory management, the dashboard offers a dynamic visual representation of data analytics. It aids stakeholders in making informed decisions about inventory levels, sales trends, and purchasing requirements, ensuring efficient management of resources. 
+
+
 <img align="left" width="250" height="160" src="Images/Minnesota_interstate_traffic_volume.png"/> **[Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
 _Tools: Google Cloud, Google DataFlow, Google BigQuery, Tableau_
