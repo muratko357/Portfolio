@@ -29,8 +29,7 @@ As the capstone project for the Google Business Intelligence Professional Certif
 
 _Tools: Python, pandas, plotly, dash_
 
-I developed an interactive, web-based dashboard application that visualizes the performance of US domestic airlines in real time.
-
+I developed an interactive web-based dashboard to analyze and visualize the real-time performance of US domestic airlines. Using Python's powerful libraries—pandas for data manipulation, Plotly for interactive charts, and Dash for the web framework—the application offers a comprehensive analysis of various performance metrics such as flight cancellations, average airtime, and delays across different categories. The dashboard allows users to filter data by year and report type, providing tailored insights into trends affecting airline operations.
 
 ### **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)** 
 
