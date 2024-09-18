@@ -1,5 +1,5 @@
 # Welcome to My Data Science and Analytics Portfolio
-Welcome to my professional portfolio, showcasing a diverse range of Data Science and Analytics projects that I have undertaken for academic purposes, personal development, and professional training. Here, you will find detailed case studies of my work, reflections on what I've learned, and documentation of my core competencies along with certifications that validate my expertise.
+This professional portfolio showcases a diverse range of Data Science and Analytics projects that I have undertaken for academic purposes, personal development, and professional training. Here, you will find detailed case studies of my work, reflections on what I've learned, and documentation of my core competencies along with certifications that validate my expertise.
 
 Feel free to contact me for collaboration or further discussion:
 - **Email:** muratko357@gmail.com
@@ -32,7 +32,6 @@ As the capstone project for the Google Business Intelligence Professional Certif
 _Tools: Python, pandas, plotly, dash_
 
 I developed an interactive, web-based dashboard application that visualizes the performance of US domestic airlines in real time.
-
 <br/><br/>
 
 ### **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)** 
@@ -41,7 +40,8 @@ I developed an interactive, web-based dashboard application that visualizes the 
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
 
-I built a machine-learning classification model to predict whether it will rain tomorrow using Australian weather data. I evaluated various models, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine, to determine the best fit based on accuracy and computation time. <br/><br/>
+I built a machine-learning classification model to predict whether it will rain tomorrow using Australian weather data. I evaluated various models, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine, to determine the best fit based on accuracy and computation time. 
+<br/>
 
 ### **[LendingClub Data Analysis: Predicting Payments](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)**
 
@@ -58,8 +58,7 @@ I performed an exploratory data analysis on LendingClub loan data using data vis
 
 _Tools: Python, pandas, matplotlib, seaborn, sklearn, tensorflow_
 
-Using the UCI Bank Authentication Data Set, I employed a Deep Neural Network Classifier to predict the authenticity of bank notes. The dataset includes features such as the variance, skewness, kurtosis, and entropy of Wavelet Transformed images.<br/><br/>                              
-
+Using the UCI Bank Authentication Data Set, I employed a Deep Neural Network Classifier to predict the authenticity of bank notes. The dataset includes features such as the variance, skewness, kurtosis, and entropy of Wavelet Transformed images.<br/><br/>             
 
 ### **[Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
 
@@ -67,7 +66,7 @@ Using the UCI Bank Authentication Data Set, I employed a Deep Neural Network Cla
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn_
 
-I analyzed Uber pickup data from April 2014 in New York using data visualization and crosstabulation techniques. The analysis provides insights for business and drivers based on the geographic location and timing of the calls.<br/><br/>
+I analyzed Uber pickup data from April 2014 in New York using data visualization and crosstabulation techniques. The analysis provides insights for business and drivers based on the geographic location and timing of the calls.<br/>
 
 ### **[Superstore Dataset Analysis: Sales, Profits, and Shipment](https://public.tableau.com/profile/murat.kocak#!/)**
 
@@ -75,7 +74,8 @@ I analyzed Uber pickup data from April 2014 in New York using data visualization
 
 _Tools: Tableau_
 
-I created various dashboards to answer business questions related to sales, profits, and shipment statuses of orders, applying design principles of data visualization.<br/><br/>
+I created various dashboards to answer business questions related to sales, profits, and shipment statuses of orders, applying design principles of data visualization.
+<br/>
 <br/>
 ### **[Analysis of the Dataset for California Electoral Politics](https://arcg.is/vOr9v)**
 
@@ -83,7 +83,8 @@ I created various dashboards to answer business questions related to sales, prof
 
 _Tools: ArcGIS_
 
-I analyzed the 2012 electoral data for California, which includes geographic information and vote counts for GMOs in food. I created a map displaying the normalized distribution of 'yes' votes by county. The PDF format of the map’s layout can be seen (**[here](https://github.com/muratko357/muratko357.github.io/blob/main/Images/California%20electoral%20politics%202012.pdf)**) and the map package is shared on my ArcGIS account **[here](https://arcg.is/vOr9v)** <br/><br/>
+I analyzed the 2012 electoral data for California, which includes geographic information and vote counts for GMOs in food. I created a map displaying the normalized distribution of 'yes' votes by county. The PDF format of the map’s layout can be seen (**[here](https://github.com/muratko357/muratko357.github.io/blob/main/Images/California%20electoral%20politics%202012.pdf)**) and the map package is shared on my ArcGIS account **[here](https://arcg.is/vOr9v)** <br/>
+
 ### **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
 <img align="left" width="250" height="150" alt="San Francisco Crime Data Analysis" style="margin: 0 10px 0 0;" src="Images/San Francisco Crime Map.png"> 
@@ -93,7 +94,6 @@ I performed an exploratory data analysis on San Francisco's 2016 crime dataset u
 
 
 <br/>
-<br/>
 
 ### **[COVID-19 Group Project-Part II: Creating an Automatic Web-Scraping and Text Summarization Tool](https://github.com/muratko357/NLP_coronavirus_project)**
 
@@ -101,8 +101,6 @@ I performed an exploratory data analysis on San Francisco's 2016 crime dataset u
 _Tools: Python, pandas, BeautifulSoup, nltk, re, threading, time_
 
 For my Data Science & Machine Learning course, I created an automatic web-scraping and text summarization tool using Natural Language Processing (NLP). This tool collects and processes official COVID-19 reports and media summaries to help the public easily follow official advice and news.
-
-
 <br/>
 
 ### **[Art Generation with Neural Style Transfer](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Art_Generation_with_Neural_Style_Transfe.ipynb)**
@@ -112,7 +110,8 @@ For my Data Science & Machine Learning course, I created an automatic web-scrapi
 _Tools: Python, numpy, pandas, os, sys, scipy, imageio, matplotlib, tersorflow, pprint_
 
 I implemented the Neural Style Transfer (NST) algorithm to generate an artistic image of the Louvre museum in Paris in the style of a Claude Monet painting. The algorithm uses a pre-trained 19-layer VGG network model.
-<br/><br/>
+
+<br/>
 
 ### **[Car Detection for Autonomous Driving Application](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Autonomous_driving_application_Car_detection.ipynb)**
 
@@ -121,7 +120,8 @@ I implemented the Neural Style Transfer (NST) algorithm to generate an artistic 
 _Tools: Python, numpy, argparse, os, matplotlib, scipy, PIL, tensorflow, keras, yolo utilities provided by deeplearning.ai_
 
 I applied the You Only Look Once (YOLO) model for car detection using a pre-trained dataset. YOLO is known for its high accuracy and real-time processing capabilities.
-<br/><br/>
+
+<br/>
 
 ### **[Face Verification & Face Recognition](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)**
 
