@@ -65,14 +65,6 @@ _Tools: Python, numpy, pandas, matplotlib, seaborn_
 
 I analyzed Uber pickup data from April 2014 in New York using data visualization and crosstabulation techniques. The analysis provides insights for business and drivers based on the geographic location and timing of the calls.
 
-### **[Superstore Dataset Analysis: Sales, Profits, and Shipment](https://public.tableau.com/profile/murat.kocak#!/)**
-
-<img align="left" width="250" height="140" alt="Superstore Dataset Analysis" style="margin: 0 10px 0 0;" src="Images/Customer scatterplot.png"> 
-
-_Tools: Tableau_
-
-I created various dashboards to answer business questions related to sales, profits, and shipment statuses of orders, applying design principles of data visualization.
-
 ### **[Analysis of the Dataset for California Electoral Politics](https://arcg.is/vOr9v)**
 
 <img align="left" width="250" height="170" alt="California Electoral Politics" style="margin: 0 10px 0 0;" src="Images/California_electoral_politics_2012 screenshot.png"> 
