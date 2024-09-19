@@ -7,6 +7,8 @@ Feel free to contact me for collaboration or further discussion:
 
 ## Projects
 
+_To explore the associated documents, click on the title of each project._
+
 ### **[Inventory Management Dashboard](inventory%20data%20management%20dashboard.pbix)**
 
 <img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Inventory%20dashboard.png"/> 
