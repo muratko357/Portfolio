@@ -15,7 +15,15 @@ _To explore the associated documents, click on the title of each project._
 
 _Tools: Power BI, DAX_
 
-This dashboard leverages Power BI to transform publicly available inventory data into actionable business insights. Specifically designed to support supply chain and inventory management, the dashboard offers a dynamic visual representation of data analytics. It aids stakeholders in making informed decisions about inventory levels, sales trends, and purchasing requirements, ensuring efficient management of resources. 
+This Inventory Management Dashboard delivers powerful insights into stock levels and supply chain efficiency, built using Power BI and enhanced by advanced DAX formulas. Key features include:
+
+**ABC and XYZ Analysis:** The dashboard segments products by their revenue contribution (ABC classification) and demand consistency (XYZ classification), allowing businesses to focus on high-priority items with reliable or unpredictable demand patterns.
+
+**Reorder Optimization:** Using dynamic calculations, the dashboard identifies when stock should be replenished based on historical sales data, lead times, and supplier delivery intervals. This helps maintain optimal stock levels, reducing both excess inventory and stockouts.
+
+**Inventory Turnover Insights:** The Inventory Turnover Ratio helps monitor the frequency with which inventory is sold and replenished, providing critical data to improve stock movement and overall supply chain performance.
+
+**Sales and Demand Trends:** By analyzing historical sales trends, the dashboard supports better forecasting and inventory planning, ensuring that stock levels are aligned with actual market demand. 
 
 ### **[Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
