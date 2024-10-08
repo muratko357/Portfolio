@@ -10,7 +10,7 @@ Feel free to contact me for collaboration or further discussion:
 _To explore the associated documents, click on the title of each project._
 
 
-### **[Rule of Law Dashboard: A Historical Comparison of Countries' Performances 1789-2023](inventory_management_dashboard.pbix)**
+### **[Rule of Law Dashboard: A Historical Comparison of Countries' Performances 1789-2023](Rule_of_Law_Per_Country.pbix)**
 
 <img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Rule_of_Law_Dashboard.png"/> 
 
