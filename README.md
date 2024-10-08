@@ -22,9 +22,9 @@ This interactive Power BI dashboard provides a comprehensive analysis of the Rul
 
 **Dynamic Indicator Calculations:** The dashboard employs advanced DAX formulas to allow users to select indicators and dynamically update the visualizations, providing indicator-specific insights tailored to user preferences.
 
-**Inventory Turnover Insights:** The Inventory Turnover Ratio helps monitor the frequency with which inventory is sold and replenished, providing critical data to improve stock movement and overall supply chain performance.
-
 **Country Comparisons:** Users can select individual countries or regions, such as Europe or EU candidates, to compare rule of law performance. A bar chart ranks countries based on their most recent scores, offering a quick visual comparison across selected nations.
+
+**Country-Specific Ranking and Score Analysis:** On drill-through pages, users can view each selected country’s historical score and ranking for each Rule of Law indicator by year, enabling detailed, year-over-year comparisons within a global context.
 
 **Interactive Tooltips and Descriptions:** Tooltips and dynamic text boxes provide definitions and detailed explanations for each indicator, alongside contextual information from the dataset codebook and relevant academic references.
 
