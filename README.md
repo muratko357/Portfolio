@@ -16,17 +16,17 @@ _To explore the associated documents, click on the title of each project._
 
 _Tools: Power BI, DAX_
 
-This interactive Power BI dashboard provides a comprehensive analysis of the Rule of Law Index from 1789 to 2023, offering insights into governance standards across various nations, with a focus on EU members and candidate countries. Key features include:
+This interactive Power BI dashboard provides a comprehensive analysis of the Rule of Law Index from 1789 to 2023, offering insights into governance standards across various nations, with a focus on EU members and candidate countries. In order to enrich the dataset, I added calculated columns for Geographic Regions, EU Candidates, and EU Membership Status based on historical data, allowing users to explore trends within specific regional contexts and EU expansion over time. Key features include:
 
-**Historical Trends Analysis:** Visualizes the evolution of governance indicators over time, allowing users to track trends in areas such as access to justice and judicial independence across centuries. The line chart also highlights EU expansion, with contextual information appearing dynamically as users hover over specific years, showing when new countries joined the EU.
+**Historical Trends Analysis:** Visualizes the evolution of governance indicators, such as access to justice and judicial independence, enabling users to track trends over centuries. EU expansion is highlighted with dynamically updated information as users hover over specific years.
 
-**Dynamic Indicator Calculations:** The dashboard employs DAX calculations to allow users to select any rule of law indicator, which then dynamically updates the visualizations. This enables flexible, indicator-specific insights tailored to user preferences, showcasing advanced measure calculations that respond to indicator selections.
+**Dynamic Indicator Calculations:** The dashboard employs advanced DAX formulas to allow users to select indicators and dynamically update the visualizations, providing indicator-specific insights tailored to user preferences.
 
 **Inventory Turnover Insights:** The Inventory Turnover Ratio helps monitor the frequency with which inventory is sold and replenished, providing critical data to improve stock movement and overall supply chain performance.
 
-**Country Comparisons:** Users can select individual countries or regions, such as Europe or EU candidates, to compare their rule of law performance over time. A bar chart ranks countries based on their most recent scores, providing a quick visual comparison across selected nations. 
+**Country Comparisons:** Users can select individual countries or regions, such as Europe or EU candidates, to compare rule of law performance. A bar chart ranks countries based on their most recent scores, offering a quick visual comparison across selected nations.
 
-**Interactive Tooltips and Descriptions:** The dashboard includes tooltips and dynamic text boxes that display definitions and detailed explanations for each indicator. Users can hover over elements to access dataset codebook explanations and academic references, enhancing the interpretability of the data.
+**Interactive Tooltips and Descriptions:** Tooltips and dynamic text boxes provide definitions and detailed explanations for each indicator, alongside contextual information from the dataset codebook and relevant academic references.
 
 ### **[Inventory Management Dashboard](inventory_management_dashboard.pbix)**
 
