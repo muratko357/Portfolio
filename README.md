@@ -15,7 +15,7 @@ _To explore the associated documents, click on the title of each project._
 
 _Tools: Power BI, DAX_
 
-This Inventory Management Dashboard delivers powerful insights into stock levels and supply chain efficiency, built using Power BI and enhanced by advanced DAX formulas. Key features include:
+This Inventory Management Dashboard enables data-driven decision making to enhance supply chain efficiency, showcasing advanced Power BI visualizations and DAX formulas. Key features include:
 
 **ABC and XYZ Analysis:** The dashboard segments products by their revenue contribution (ABC classification) and demand consistency (XYZ classification), allowing businesses to focus on high-priority items with reliable or unpredictable demand patterns.
 
