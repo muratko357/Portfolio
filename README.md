@@ -28,6 +28,8 @@ This interactive Power BI dashboard leverages the V-Dem Dataset (Varieties of De
 
 **Interactive Tooltips and Descriptions:** Tooltips and dynamic text boxes provide definitions and detailed explanations for each indicator, alongside contextual information from the dataset codebook and relevant academic references.
 
+To view the dashboard, download the **[PowerBI-file](Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix)**
+
 ### **[Inventory Management Dashboard](inventory_management_dashboard.pbix)**
 
 <img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Inventory%20dashboard.png"/> 
