@@ -46,6 +46,8 @@ This Inventory Management Dashboard enables data-driven decision making to enhan
 
 **Sales and Demand Trends:** By analyzing historical sales trends, the dashboard supports better forecasting and inventory planning, ensuring that stock levels are aligned with actual market demand. 
 
+To view the dashboard, please download the Power BI file **[inventory_management_dashboard.pbix](inventory_management_dashboard.pbix)**
+
 ### **[Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
 <img align="left" width="250" height="160" alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Minnesota_interstate_traffic_volume.png"/> 
