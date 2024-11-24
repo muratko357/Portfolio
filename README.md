@@ -46,6 +46,7 @@ This project features an interactive Power BI dashboard that analyzes security i
 - Standardized shapefile projections and formats for seamless mapping.
 
 #### Impact:
+
 This dashboard provides humanitarian organizations with actionable insights into security risks, supporting managers in resource allocation, risk assessment, and policy development. By integrating data cleaning, modeling, and GIS tools, it serves as a blueprint for advanced geospatial analysis and reporting.
 
 📂 Explore the [repository](https://github.com/muratko357/Aid-worker-security-incidents-analysis):
