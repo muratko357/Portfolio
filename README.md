@@ -30,36 +30,35 @@ This Power BI project aims to analyze security incidents involving humanitarian 
 <small style="color:gray; font-size: 0.8em;"><em>Data source: Humanitarian Outcomes' Aid Worker Security Database (aidworkersecurity.org)</em></small>
 <br clear="left"/>
 
-#### _Key Features:_
-
-##### Global and Regional Analysis:
+#### Key Features:
+####    _- Global and Regional Analysis:_
 
 - Page 1: Global Overview (1997–2024) with heatmaps and aggregated victim counts.
 - Page 2: East Mediterranean Humanitarian Corridor (2012–2024) with bubble and custom province-level maps.
 
-#### Advanced Data Modeling:
+####    _- Advanced Data Modeling:_
 
 - Multi-dimensional analysis enabled by bridge and dimension tables.
 - Interactive slicers for organization, casualty type and victim’s organizations, and other dimensions.
 
-#### Geospatial Integration:
+####    _- Geospatial Integration:_
 
 - Custom maps created using QGIS and MapShaper.
 - Shapefiles standardized and converted to TopoJSON for Power BI integration.
 
-#### _Tools & Technologies:_
+#### Tools & Technologies:
 
 - Power BI for dynamic visualizations and DAX-based insights.
 - Python for reverse geocoding and missing data imputation.
 - GIS Tools (QGIS and MapShaper) for creating and merging custom maps.
 
-#### _Challenges & Innovations:_
+#### Challenges & Innovations:
 
 - Addressed geographic name inconsistencies across datasets.
 - Integrated reverse geocoding to fill missing region and province names.
 - Standardized shapefile projections and formats for seamless mapping.
 
-#### _Impact:_
+#### Impact:
 This dashboard provides humanitarian organizations with actionable insights into security risks, supporting managers in resource allocation, risk assessment, and policy development. By integrating data cleaning, modeling, and GIS tools, it serves as a blueprint for advanced geospatial analysis and reporting.
 
 _Note: The data points indicating incident locations are approximate rather than exact, due to the imputation of missing values in the latitude and longitude columns._
