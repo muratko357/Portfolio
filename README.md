@@ -56,7 +56,7 @@ Check out the repository for Power Query M code, DAX measures, and Python script
 
 📊 Download the Dashboard:
 
-A downloadable version of the Power BI file is accessible  [here](https://github.com/muratko357/Aid-worker-security-incidents-analysis/blob/main/Dashboard%20aid%20worker%20security%2020241122.pbix).
+A downloadable version of the Power BI file is accessible [here](https://github.com/muratko357/Aid-worker-security-incidents-analysis/blob/main/Dashboard%20aid%20worker%20security%2020241122.pbix).
 
 ...
  
@@ -78,7 +78,7 @@ This interactive Power BI dashboard leverages the V-Dem Dataset (Varieties of De
 
 **Interactive Tooltips and Descriptions:** Tooltips and dynamic text boxes provide definitions and detailed explanations for each indicator, alongside contextual information from the dataset codebook and relevant academic references.
 
-To view the dashboard, please download the Power BI file **[Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix](Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix)**
+A downloadable version of the Power BI file is accessible [here](Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix).
 
 ...
 
@@ -98,7 +98,7 @@ This Inventory Management Dashboard enables data-driven decision making to enhan
 
 **Sales and Demand Trends:** By analyzing historical sales trends, the dashboard supports better forecasting and inventory planning, ensuring that stock levels are aligned with actual market demand. 
 
-To view the dashboard, please download the Power BI file **[inventory_management_dashboard.pbix](inventory_management_dashboard.pbix)**
+TA downloadable version of the Power BI file is accessible [here](inventory_management_dashboard.pbix).
 
 ...
 
