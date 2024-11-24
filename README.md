@@ -5,11 +5,55 @@ Feel free to contact me for collaboration or further discussion:
 - **Email:** muratko357@gmail.com
 - **LinkedIn:** [linkedin.com/in/muratko357](https://www.linkedin.com/in/muratko357/)
 
+---
+
 ## Projects
+ _To explore the associated documents, click on the title of each project._
+ 
+...
+ 
+### **[Aid Worker Security Incidents Dashboard (1997-2024)](https://github.com/muratko357/Aid-worker-security-incidents-analysis)**
 
-_To explore the associated documents, click on the title of each project._
+_Tools: Power BI, DAX, M, Python, GeoPy, Pandas, QGIS, Mapshaper_
 
+This project features an interactive Power BI dashboard that analyzes security incidents involving humanitarian aid workers from 1997 to 2024. The dashboard provides actionable insights into incident patterns, victim demographics, and organizational involvement, helping security managers and analysts make informed strategic and operational decisions.
 
+#### Key Features:
+**Global and Regional Analysis:**
+<img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents global overview.png"/> 
+
+- Page 1: Global Overview (1997–2024) with heatmaps and aggregated victim counts.
+- Page 2: East Mediterranean Humanitarian Corridor (2012–2024) with bubble and custom province-level maps.
+**Advanced Data Modeling:**
+- Multi-dimensional analysis enabled by bridge and dimension tables.
+- Interactive slicers for organization, casualty type and victim’s organizations, and other dimensions.
+
+<img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents EM view.png"/> 
+
+**Geospatial Integration:**
+- Custom maps created using QGIS and MapShaper.
+- Shapefiles standardized and converted to TopoJSON for Power BI integration.
+#### Tools & Technologies:
+- Power BI for dynamic visualizations and DAX-based insights.
+- Python for reverse geocoding and missing data imputation.
+- GIS Tools (QGIS and MapShaper) for creating and merging custom maps.
+#### Challenges & Innovations:
+- Addressed geographic name inconsistencies across datasets.
+- Integrated reverse geocoding to fill missing region and province names.
+- Standardized shapefile projections and formats for seamless mapping.
+#### Impact:
+This dashboard provides humanitarian organizations with actionable insights into security risks, supporting managers in resource allocation, risk assessment, and policy development. By integrating data cleaning, modeling, and GIS tools, it serves as a blueprint for advanced geospatial analysis and reporting.
+
+📂 Explore the [repository](https://github.com/muratko357/Aid-worker-security-incidents-analysis):
+
+Check out the repository for Power Query M code, DAX measures, and Python scripts.
+
+📊 Download the Dashboard:
+
+A downloadable version of the Power BI file is accessible  [here](https://github.com/muratko357/Aid-worker-security-incidents-analysis/blob/main/Dashboard%20aid%20worker%20security%2020241122.pbix).
+
+...
+ 
 ### **[Rule of Law Dashboard: A Historical Comparison of Countries' Performances 1789-2023](Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix)**
 
 <img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Rule_of_Law_Dashboard.png"/> 
@@ -30,6 +74,8 @@ This interactive Power BI dashboard leverages the V-Dem Dataset (Varieties of De
 
 To view the dashboard, please download the Power BI file **[Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix](Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix)**
 
+...
+
 ### **[Inventory Management Dashboard](inventory_management_dashboard.pbix)**
 
 <img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Inventory%20dashboard.png"/> 
@@ -48,6 +94,8 @@ This Inventory Management Dashboard enables data-driven decision making to enhan
 
 To view the dashboard, please download the Power BI file **[inventory_management_dashboard.pbix](inventory_management_dashboard.pbix)**
 
+...
+
 ### **[Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
 <img align="left" width="250" height="160" alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Minnesota_interstate_traffic_volume.png"/> 
@@ -55,6 +103,8 @@ To view the dashboard, please download the Power BI file **[inventory_management
 _Tools: Google Cloud, Google DataFlow, Google BigQuery, Tableau_
 
 As the capstone project for the Google Business Intelligence Professional Certificate, this analysis showcases my expertise in building BI solutions, data pipelines, and interactive visualizations. The project involved developing a detailed BI project plan, constructing a data pipeline via Google DataFlow to transport data to BigQuery, and creating a Tableau dashboard that visualizes Minnesota interstate traffic volume. The dashboard also explores the effects of weather, holidays, and time of day on traffic patterns, providing insights into the best times for road maintenance and construction. [View Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+...
 
 ### **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
 
@@ -64,6 +114,8 @@ _Tools: Python, pandas, plotly, dash_
 
 I developed an interactive web-based dashboard to analyze and visualize the real-time performance of US domestic airlines. Using Python's powerful libraries—pandas for data manipulation, Plotly for interactive charts, and Dash for the web framework—the application offers a comprehensive analysis of various performance metrics such as flight cancellations, average airtime, and delays across different categories. The dashboard allows users to filter data by year and report type, providing tailored insights into trends affecting airline operations.
 
+...
+
 ### **[Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)** 
 
 <img align="left" width="250" height="150" alt="Weather Prediction" style="margin: 0 10px 0 0;" src="Images/rain.jpg"/> 
@@ -71,6 +123,10 @@ I developed an interactive web-based dashboard to analyze and visualize the real
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
 
 I built a machine-learning classification model to predict whether it will rain tomorrow using Australian weather data. I evaluated various models, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine, to determine the best fit based on accuracy and computation time. 
+
+...
+
+<br clear="left"/>
 
 ### **[LendingClub Data Analysis: Predicting Payments](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)**
 
@@ -80,13 +136,19 @@ _Tools: Python, numpy, pandas, matplotlib, seaborn, sklearn_
 
 I performed an exploratory data analysis on LendingClub loan data using data visualization techniques. Then, I applied Random Forest and Decision Tree models to predict loan repayment outcomes, considering variables such as loan purpose, interest rate, monthly installments, borrower income, debt-to-income ratio, FICO score, and credit line age.
 
+...
+<br clear="left"/>
+
 ### **[Bank Note Authentication](https://github.com/muratko357/ML_models/blob/master/banknote-authentication.ipynb)**
 
 <img align="left" width="250" height="150" alt="Bank Note Authentication" style="margin: 0 10px 0 0;" src="Images/banknote-authentication.jpeg"> 
 
 _Tools: Python, pandas, matplotlib, seaborn, sklearn, tensorflow_
 
-Using the UCI Bank Authentication Data Set, I employed a Deep Neural Network Classifier to predict the authenticity of bank notes. The dataset includes features such as the variance, skewness, kurtosis, and entropy of Wavelet Transformed images.            
+Using the UCI Bank Authentication Data Set, I employed a Deep Neural Network Classifier to predict the authenticity of bank notes. The dataset includes features such as the variance, skewness, kurtosis, and entropy of Wavelet Transformed images.           
+
+...
+<br clear="left"/>
 
 ### **[Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)**
 
@@ -96,6 +158,9 @@ _Tools: Python, numpy, pandas, matplotlib, seaborn_
 
 I analyzed Uber pickup data from April 2014 in New York using data visualization and crosstabulation techniques. The analysis provides insights for business and drivers based on the geographic location and timing of the calls.
 
+...
+<br clear="left"/>
+
 ### **[Analysis of the Dataset for California Electoral Politics](https://arcg.is/vOr9v)**
 
 <img align="left" width="250" height="170" alt="California Electoral Politics" style="margin: 0 10px 0 0;" src="Images/California_electoral_politics_2012 screenshot.png"> 
@@ -104,6 +169,9 @@ _Tools: ArcGIS_
 
 I conducted an analysis of California’s 2012 electoral data, focusing on geographic information and vote counts related to the proposition on GMOs in food. Using this data, I created a map that visualizes the normalized distribution of 'yes' votes across each county. You can view the layout of the map in PDF format **[here](https://github.com/muratko357/muratko357.github.io/blob/main/Images/California%20electoral%20politics%202012.pdf)**, and access the full map package on my ArcGIS account **[here](https://arcg.is/vOr9v)**.
 
+...
+<br clear="left"/>
+
 ### **[San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)**
 
 <img align="left" width="250" height="150" alt="San Francisco Crime Data Analysis" style="margin: 0 10px 0 0;" src="Images/San Francisco Crime Map.png"> 
@@ -111,6 +179,8 @@ _Tools: Python, pandas, matplotlib, seaborn, folium_
 
 I performed an exploratory data analysis on San Francisco's 2016 crime dataset using visualization tools, crosstabulation, and crime mapping to display crime rates across city districts.
 
+...
+<br clear="left"/>
 
 ### **[COVID-19 Group Project-Part II: Creating an Automatic Web-Scraping and Text Summarization Tool](https://github.com/muratko357/NLP_coronavirus_project)**
 
@@ -119,6 +189,8 @@ _Tools: Python, pandas, BeautifulSoup, nltk, re, threading, time_
 
 For my Data Science & Machine Learning course, I created an automatic web-scraping and text summarization tool using Natural Language Processing (NLP). This tool collects and processes official COVID-19 reports and media summaries to help the public easily follow official advice and news.
 
+..
+<br clear="left"/>
 
 ### **[Art Generation with Neural Style Transfer](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Art_Generation_with_Neural_Style_Transfe.ipynb)**
 
@@ -128,6 +200,8 @@ _Tools: Python, numpy, pandas, os, sys, scipy, imageio, matplotlib, tersorflow, 
 
 I implemented the Neural Style Transfer (NST) algorithm to generate an artistic image of the Louvre museum in Paris in the style of a Claude Monet painting. The algorithm uses a pre-trained 19-layer VGG network model.
 
+...
+<br clear="left"/>
 
 ### **[Car Detection for Autonomous Driving Application](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Autonomous_driving_application_Car_detection.ipynb)**
 
@@ -137,6 +211,8 @@ _Tools: Python, numpy, argparse, os, matplotlib, scipy, PIL, tensorflow, keras, 
 
 I applied the You Only Look Once (YOLO) model for car detection using a pre-trained dataset. YOLO is known for its high accuracy and real-time processing capabilities.
 
+...
+<br clear="left"/>
 
 ### **[Face Verification & Face Recognition](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)**
 
@@ -145,22 +221,29 @@ I applied the You Only Look Once (YOLO) model for car detection using a pre-trai
 _Tools: Python, numpy, pandas, keras, tensorflow, cv2, os, utilities provided by deeplearning.ai_ 
 
 I implemented the triplet loss function using a pre-trained model to map face images into 128-dimensional encodings for face verification and recognition tasks. Face Verification is used for identity verification in applications like smartphone security systems, while Face Recognition identifies individuals by searching databases.
-<br/>
+<br clear="left"/>
 
+---
 ## Areas of expertise
 *	Research methods
 *	Data analytics
 *	Crime analysis
 *	Developing policies for safety and crime prevention
 
+---
+
 ## Areas of experience
 
 *	Machine Learning
 *	Deep Learning
 *	GIS mapping
+
+---
    
 ## Software
-SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, Statsmodels, Excel, Power BI, Tableau, IBM Watson Studio, R-Studio, IBM Cognos, ArcGIS, MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, and Stata
+Power BI, Tableau, IBM Watson Studio, R-Studio, IBM Cognos, QGIS, ArcGIS, SQL, Python, R, Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, Scikit_learn, Statsmodels, Excel,  MS Suit, Google Suit, Jupyter Notebook, HTML & CSS, and Stata
+
+---
 
 ## Certified Courses
 
