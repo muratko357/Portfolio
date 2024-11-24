@@ -16,7 +16,7 @@ Feel free to contact me for collaboration or further discussion:
 
 _Tools: Power BI, DAX, M, Python, GeoPy, Pandas, QGIS, Mapshaper_
 
-This project features an interactive Power BI dashboard that analyzes security incidents involving humanitarian aid workers from 1997 to 2024. The dashboard provides actionable insights into incident patterns, victim demographics, and organizational involvement, helping security managers and analysts make informed strategic and operational decisions.
+This Power BI project aims to analyze security incidents involving humanitarian aid workers, delivering actionable insights into incident patterns, victim demographics, and organizational involvement. Leveraging advanced data modeling, geospatial analysis, and interactive dashboards, the project empowers security managers and analysts in the humanitarian sector to make informed strategic and operational decisions.
 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents global overview.png"/> 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents EM view.png"/> 
