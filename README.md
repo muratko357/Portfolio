@@ -69,7 +69,7 @@ _Note: The data points indicating incident locations are approximate rather than
 
 ---
  
-#### [1.2. Rule of Law Dashboard: A Historical Comparison of Countries' Performances 1789-2023:](Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix)
+#### [1.2. Rule of Law Dashboard: A Historical Comparison of Countries' Performances 1789-2023:](https://github.com/muratko357/Rule_of_Law_Dashboard))
 
 <img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Rule_of_Law_Dashboard.png"/> 
 
