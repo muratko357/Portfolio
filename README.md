@@ -20,11 +20,10 @@ This Power BI project aims to analyze security incidents involving humanitarian 
 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents global overview.png"/> 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents EM view.png"/> 
-
+<br clear="left"/>
+<small style="color:gray; font-size: 0.8em;"><em>Data: Humanitarian Outcomes' Aid Worker Security Database (aidworkersecurity.org)</em></small>
 <br clear="left"/>
 
-<small style="color:gray; font-size: 0.7em;">_Data: Humanitarian Outcomes' Aid Worker Security Database (aidworkersecurity.org)_</small>
-<br clear="left"/>
 #### _Key Features:_
 
 **Global and Regional Analysis:**
