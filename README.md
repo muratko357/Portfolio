@@ -24,6 +24,7 @@ This project features an interactive Power BI dashboard that analyzes security i
 
 - Page 1: Global Overview (1997–2024) with heatmaps and aggregated victim counts.
 - Page 2: East Mediterranean Humanitarian Corridor (2012–2024) with bubble and custom province-level maps.
+  
 **Advanced Data Modeling:**
 - Multi-dimensional analysis enabled by bridge and dimension tables.
 - Interactive slicers for organization, casualty type and victim’s organizations, and other dimensions.
@@ -33,14 +34,17 @@ This project features an interactive Power BI dashboard that analyzes security i
 **Geospatial Integration:**
 - Custom maps created using QGIS and MapShaper.
 - Shapefiles standardized and converted to TopoJSON for Power BI integration.
+
 #### Tools & Technologies:
 - Power BI for dynamic visualizations and DAX-based insights.
 - Python for reverse geocoding and missing data imputation.
 - GIS Tools (QGIS and MapShaper) for creating and merging custom maps.
+
 #### Challenges & Innovations:
 - Addressed geographic name inconsistencies across datasets.
 - Integrated reverse geocoding to fill missing region and province names.
 - Standardized shapefile projections and formats for seamless mapping.
+
 #### Impact:
 This dashboard provides humanitarian organizations with actionable insights into security risks, supporting managers in resource allocation, risk assessment, and policy development. By integrating data cleaning, modeling, and GIS tools, it serves as a blueprint for advanced geospatial analysis and reporting.
 
