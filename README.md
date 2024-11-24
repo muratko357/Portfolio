@@ -100,7 +100,7 @@ This Inventory Management Dashboard enables data-driven decision making to enhan
 
 **Sales and Demand Trends:** By analyzing historical sales trends, the dashboard supports better forecasting and inventory planning, ensuring that stock levels are aligned with actual market demand. 
 
-TA downloadable version of the Power BI file is accessible [here](inventory_management_dashboard.pbix).
+A downloadable version of the Power BI file is accessible [here](inventory_management_dashboard.pbix).
 
 ...
 
