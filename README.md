@@ -63,13 +63,9 @@ This dashboard provides humanitarian organizations with actionable insights into
 
 _Note: The data points indicating incident locations are approximate rather than exact, due to the imputation of missing values in the latitude and longitude columns._
 
-📂 Explore the [repository](https://github.com/muratko357/Aid-worker-security-incidents-analysis):
+📂 Explore the [repository](https://github.com/muratko357/Aid-worker-security-incidents-analysis) for Power Query M code, DAX measures, and Python scripts.
 
-Check out the repository for Power Query M code, DAX measures, and Python scripts.
-
-📊 Download the Dashboard:
-
-A downloadable version of the Power BI file is accessible [here](https://github.com/muratko357/Aid-worker-security-incidents-analysis/blob/main/Dashboard%20aid%20worker%20security%2020241122.pbix).
+📊 Download the Dashboard, the Power BI file is accessible [here](https://github.com/muratko357/Aid-worker-security-incidents-analysis/blob/main/Dashboard%20aid%20worker%20security%2020241122.pbix).
 
 ---
  
@@ -96,7 +92,9 @@ On drill-through pages, users can view each selected country’s historical name
 ##### Interactive Tooltips and Descriptions:
 Tooltips and dynamic text boxes provide definitions and detailed explanations for each indicator, alongside contextual information from the dataset codebook and relevant academic references.
 
-A downloadable version of the Power BI file is accessible [here](Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix).
+📂 Explore the [repository](https://github.com/muratko357/Rule_of_Law_Dashboard) for additional information and DAX measures.
+
+📊 Download the Dashboard, the Power BI file is accessible [here](https://github.com/muratko357/Rule_of_Law_Dashboard/blob/main/Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix)
 
 ---
 
