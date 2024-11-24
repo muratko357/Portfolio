@@ -18,18 +18,19 @@ _Tools: Power BI, DAX, M, Python, GeoPy, Pandas, QGIS, Mapshaper_
 
 This project features an interactive Power BI dashboard that analyzes security incidents involving humanitarian aid workers from 1997 to 2024. The dashboard provides actionable insights into incident patterns, victim demographics, and organizational involvement, helping security managers and analysts make informed strategic and operational decisions.
 
-#### Key Features:
-**Global and Regional Analysis:**
-<img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents global overview.png"/> 
+<img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents global overview.png"/> <img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents EM view.png"/> 
 
+<br clear="left"/>
+
+#### _Key Features:_
+
+**Global and Regional Analysis:**
 - Page 1: Global Overview (1997–2024) with heatmaps and aggregated victim counts.
 - Page 2: East Mediterranean Humanitarian Corridor (2012–2024) with bubble and custom province-level maps.
   
 **Advanced Data Modeling:**
 - Multi-dimensional analysis enabled by bridge and dimension tables.
 - Interactive slicers for organization, casualty type and victim’s organizations, and other dimensions.
-
-<img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents EM view.png"/> 
 
 **Geospatial Integration:**
 - Custom maps created using QGIS and MapShaper.
