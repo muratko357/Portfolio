@@ -27,7 +27,7 @@ This Power BI project aims to analyze security incidents involving humanitarian 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents global overview.png"/> 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents EM view.png"/> 
 <br clear="left"/>
-<small style="color:gray; font-size: 0.8em;"><em>Data source: Humanitarian Outcomes' Aid Worker Security Database (aidworkersecurity.org)</em></small>
+<small style="color:gray; font-size: 0.8em;"><em>Screenshots: Page 1 and Page 2</em></small>
 <br clear="left"/>
 
 #### Key Features:
@@ -71,11 +71,15 @@ _Note: The data points indicating incident locations are approximate rather than
  
 #### [1.2. Rule of Law Dashboard: A Historical Comparison of Countries' Performances 1789-2023:](https://github.com/muratko357/Rule_of_Law_Dashboard))
 
-<img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Rule_of_Law_Dashboard.png"/> 
-
 _Tools: Power BI, DAX_
 
 This interactive Power BI dashboard leverages the V-Dem Dataset (Varieties of Democracy) and provides a comprehensive analysis of the Rule of Law Index and related indicators from 1789 to 2023, offering insights into governance standards across various nations, with a focus on EU members and candidate countries. In order to enrich the dataset, I added calculated columns for Geographic Regions, EU Candidates, and EU Membership Status based on historical data, allowing users to explore trends within specific regional contexts and EU expansion over time. Key features include:
+
+<img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/RL-Main_page.png"/> 
+<img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/RL-Drill_through_page.png"/> 
+<br clear="left"/>
+<small style="color:gray; font-size: 0.8em;"><em>Screenshots: Main and Drill through pages</em></small>
+<br clear="left"/>
 
 ##### Historical Trends Analysis:
 Visualizes the evolution of governance indicators, such as access to justice and judicial independence, enabling users to track trends over centuries. EU expansion is highlighted with dynamically updated information as users hover over specific years.
