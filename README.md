@@ -96,7 +96,7 @@ _Note: The data points indicating incident locations are approximate rather than
 
 ---
  
-#### [1.2. Rule of Law Dashboard: A Historical Comparison of Countries' Performances 1789-2023:](https://github.com/muratko357/Rule_of_Law_Dashboard))
+#### [1.2. Visualizing Rule of Law: A Dynamic Dashboard for Historical and Regional Analysis (1789-2023):](https://github.com/muratko357/Rule_of_Law_Dashboard)
 
 _Tools: Power BI, DAX_
 
