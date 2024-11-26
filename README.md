@@ -100,7 +100,7 @@ _Note: The data points indicating incident locations are approximate rather than
 
 _Tools: Power BI, DAX_
 
-This interactive Power BI dashboard leverages the V-Dem Dataset (Varieties of Democracy) and provides a comprehensive analysis of the Rule of Law Index and related indicators from 1789 to 2023, offering insights into governance standards across various nations, with a focus on EU members and candidate countries. In order to enrich the dataset, I added calculated columns for Geographic Regions, EU Candidates, and EU Membership Status based on historical data, allowing users to explore trends within specific regional contexts and EU expansion over time. Key features include:
+This interactive Power BI dashboard leverages the V-Dem Dataset (Varieties of Democracy) to analyze the Rule of Law Index and related indicators from 1789 to 2023. By integrating advanced DAX calculations, it dynamically explores historical trends in judicial independence, access to justice, transparent laws with predictable enforcement, and more. Offering perspectives on governance evolutions across world regions and individual countries, this tool equips researchers, policymakers, and security analysts with actionable insights into institutional resilience, societal stability, and democratic progress.
 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/RL-Main_page.png"/> 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/RL-Drill_through_page.png"/> 
@@ -108,20 +108,23 @@ This interactive Power BI dashboard leverages the V-Dem Dataset (Varieties of De
 <small style="color:gray; font-size: 0.8em;"><em>Screenshots: Main and Drill through pages</em></small>
 <br clear="left"/>
 
-##### Historical Trends Analysis:
+#### Historical Trends Analysis:
 Visualizes the evolution of governance indicators, such as access to justice and judicial independence, enabling users to track trends over centuries. EU expansion is highlighted with dynamically updated information as users hover over specific years.
 
-##### Dynamic Indicator Calculations:
+#### Dynamic Indicator Calculations:
 The dashboard employs advanced DAX formulas to allow users to select indicators and dynamically update the visualizations, providing indicator-specific insights tailored to user preferences.
 
-##### Country Comparisons:
+#### Country Comparisons:
 Users can select individual countries or regions, such as Europe or EU candidates, to compare rule of law performance. A bar chart ranks countries based on their most recent scores, offering a quick visual comparison across selected nations.
 
-##### Country-Specific Ranking and Score Analysis:
+#### Country-Specific Ranking and Score Analysis:
 On drill-through pages, users can view each selected country’s historical name, historical score, and ranking for each Rule of Law indicator by year, enabling detailed, year-over-year comparisons within a global context.
 
-##### Interactive Tooltips and Descriptions:
+#### Interactive Tooltips and Descriptions:
 Tooltips and dynamic text boxes provide definitions and detailed explanations for each indicator, alongside contextual information from the dataset codebook and relevant academic references.
+
+#### Impact:
+The Rule of Law Dashboard equips policymakers, researchers, and security analysts with actionable insights into the evolution of justice systems, judicial independence, and access to justice over time. It enables dynamic comparisons across countries and regions, revealing historical and contemporary trends that shape security, institutional integrity, and democratic resilience. The tool supports informed decision-making, fosters regional collaboration, and strengthens discussions on the role of law in societal stability and development.
 
 📂 Explore the [repository](https://github.com/muratko357/Rule_of_Law_Dashboard) for additional information and DAX measures.
 
