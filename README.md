@@ -18,11 +18,11 @@ Feel free to contact me for collaboration or further discussion:
 ## Projects
 ### 1. Data Analysis and Business Intelligence (BI) Projects
  
-#### [1.1. Aid Worker Security Incident Dashboard and QGIS Visualization:](https://github.com/muratko357/Aid-worker-security-incidents-analysis)
+#### [1.1. Mapping and Analyzing Security Incidents to Enhance the Safety of Humanitarian Aid Workers in High-Risk Areas:](https://github.com/muratko357/Aid-worker-security-incidents-analysis)
 
 _Tools: Power BI, DAX, M, Python, GeoPy, Pandas, QGIS, Mapshaper_
 
-This project features a two-page interactive Power BI dashboard and a complementary QGIS map visualization (PNG) analyzing security incidents affecting humanitarian aid workers (killed, wounded, or taken hostage) from 1997 to 2024. By integrating advanced data modeling, geospatial analysis, and dynamic visualizations, it provides actionable insights for security managers, analysts, and humanitarian organizations.
+This project aims to enhance the safety of humanitarian aid workers by analyzing security incidents in which they were killed, wounded, or taken hostage from 1997 to 2024. Deliverables include a two-page interactive Power BI dashboard and a complementary QGIS map visualization (PNG). These tools provide actionable insights into incident patterns, victim demographics, organizational involvement, and geographic hotspots. By integrating advanced data modeling, geospatial analysis, and dynamic visualizations, the project empowers security managers, analysts, and humanitarian organizations to make informed strategic and operational decisions in high-risk areas.
 
 #### _1.1.1. Key Features_
 
