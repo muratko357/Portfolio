@@ -24,9 +24,9 @@ _Tools: Power BI, DAX, M, Python, GeoPy, Pandas, QGIS, Mapshaper_
 
 This project aims to enhance the safety of humanitarian aid workers by analyzing security incidents in which they were killed, wounded, or kidnapped from 1997 to 2024. Deliverables include a two-page interactive Power BI dashboard and a complementary QGIS map visualization (PNG). These tools provide actionable insights into incident patterns, victim demographics, organizational involvement, and geographic hotspots. By integrating advanced data modeling, geospatial analysis, and dynamic visualizations, the project empowers security managers, analysts, and humanitarian organizations to make informed strategic and operational decisions in high-risk areas.
 
-#### _1.1.1. Key Features_
+#### 1.1.1. Key Features
 
-**a) Interactive Power BI Dashboard**
+_**a) Interactive Power BI Dashboard**_
 <br clear="left"/>
 **Global Overview (1997–2024):** A dynamic visualization showcasing global trends in security incidents. This page uses bubble maps to plot incident locations by latitude and longitude, where bubble size and color represent the severity of victim counts (aid workers). Users can interactively filter incidents by year, organization, casualty type, and demographic variables to gain a high-level understanding of patterns worldwide.
 
@@ -39,51 +39,53 @@ This project aims to enhance the safety of humanitarian aid workers by analyzing
 
 <br/>
 
-**b) Custom QGIS Map Visualization**
+_**b) Custom QGIS Map Visualization**_
 <br clear="left"/>
 The custom QGIS map visualization for the East Mediterranean Humanitarian Corridor uses data points derived from latitude and longitude to map incidents at the provincial level. Attack types are symbolized for clarity, while labels highlight functional locations impacted by incidents, such as office, organization compound, and project site. The map’s layers were standardized and aligned for accurate analysis and layout.
 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/QGIS Map-East Mediterranean Humanitarian Corridor.png"/> 
 
-#### _1.1.2. Data Sources and Preparation_
+#### 1.1.2. Data Sources and Preparation
 
-**a) Primary Dataset:**
+_**a) Primary Dataset:**_
+<br/>
 Aid Worker Security Incident-level Data from 1997–2024, including victim demographics, casualty types, and organizational affiliations. Source: Aid Worker Security Database.
 
-**b) Geographic Data:**
+_**b) Geographic Data:**_
+<br/>
 Shapefiles for Israel, Palestine, Lebanon, and Syria downloaded from GADM, standardized using QGIS, and converted to TopoJSON for seamless Power BI integration.
 
-**c) Data Cleaning and Transformation:**
-<br clear="left"/>
+_**c) Data Cleaning and Transformation:**_
+
 **Python for Reverse Geocoding:** Missing geographic details were imputed using latitude and longitude.
-<br clear="left"/>
+
 **Power Query for Standardization:** Adjusted geographic names (e.g., "Deir ez-Zor" → "Dayr Az Zawr") and addressed inconsistencies across datasets.
 
-#### _1.1.3. Technical Highlights_
+#### 1.1.3. Technical Highlights
 
-**a) Advanced Power BI Features:**
-<br clear="left"/>
+_**a) Advanced Power BI Features:**_
+
 **Dynamic Measure - Victim Count:** Calculates the total number of victims, dynamically adjusting based on slicer selections such as date, country, attack type, casualty type, organization, functional location, gender, and more.
-<br clear="left"/>
+
 **Dynamic Measure - Incident Count:** Calculates the total number of distinct incidents similarly.
-<br clear="left"/>
+
 **Dynamic Map Titles:** Titles adapt based on slicer selections for contextual relevance.
-<br clear="left"/>
+
 **Custom Shape Maps:** Merged shapefiles enriched Power BI visuals with region-specific insights.
 
-**b) Relationships and Filtering Logic:**
-<br clear="left"/>
+_**b) Relationships and Filtering Logic:**_
+
 **Bridge Table:** Addressed many-to-many relationships between organizations and casualty types for accurate cross-filtering.
-<br clear="left"/>
+
 **Temporal Filtering:** Calendar table enables trends by year, month, and week.
 
-**c) Geospatial Integration:**
-<br clear="left"/>
+_**c) Geospatial Integration:**_
+
 **QGIS and MapShaper:** Custom province-level maps required shapefile standardization and projection alignment (EPSG:4326).
-<br clear="left"/>
+
 **Interactive Power BI Maps:** Bubble maps for global and regional analyses are responsive to user-selected filters.
 
-#### _1.1.4. Impact and Future Enhancements_ 
+#### 1.1.4. Impact and Future Enhancements
 This project enables humanitarian actors to enhance resource allocation, risk assessment, and policy development by leveraging data analytics and GIS.
 
 Future Plans: Introduce filters for Actor Type (primary instigator group responsible for the event) and Motive to deepen insights. Optimize DAX measures and integrate real-time data for enhanced responsiveness.
@@ -138,7 +140,7 @@ The Rule of Law Dashboard enables dynamic comparisons across countries and regio
 
 _Tools: Power BI, DAX_
 
-This Inventory Management Dashboard enables data-driven decision making to enhance supply chain efficiency, showcasing advanced Power BI visualizations and DAX formulas. Key features include:
+This dashboard leverages the power of Power BI and DAX to provide actionable insights into inventory performance and optimization. By analyzing historical sales data and demand patterns, the dashboard enables businesses to streamline stock management, reduce costs, and make informed decisions to maintain optimal inventory levels. Key features include:
 
 #### ABC and XYZ Analysis:
 The dashboard segments products by their revenue contribution (ABC classification) and demand consistency (XYZ classification), allowing businesses to focus on high-priority items with reliable or unpredictable demand patterns.
@@ -150,7 +152,10 @@ Using dynamic calculations, the dashboard identifies when stock should be replen
 The Inventory Turnover Ratio helps monitor the frequency with which inventory is sold and replenished, providing critical data to improve stock movement and overall supply chain performance.
 
 #### Sales and Demand Trends:
-By analyzing historical sales trends, the dashboard supports better forecasting and inventory planning, ensuring that stock levels are aligned with actual market demand. 
+By analyzing historical sales trends, the dashboard supports better forecasting and inventory planning, ensuring that stock levels are aligned with actual market demand.
+
+#### Impact and Future Enhancements 
+This dashboard offers a robust framework for improving inventory management by focusing on key areas like ABC and XYZ analysis, inventory turnover, and reorder optimization. While based on historical data, the dashboard can be customized further to incorporate additional metrics, such as profit margins or advanced forecasting tools. By aligning inventory strategies with business goals, it supports data-driven decisions to enhance operational efficiency and responsiveness to market needs.
 
 A downloadable version of the Power BI file is accessible [here](inventory_management_dashboard.pbix).
 
