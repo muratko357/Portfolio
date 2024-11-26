@@ -18,7 +18,7 @@ Feel free to contact me for collaboration or further discussion:
 ## Projects
 ### 1. Data Analysis and Business Intelligence (BI) Projects
  
-#### [1.1. Mapping and Analyzing Security Incidents to Enhance the Safety of Humanitarian Aid Workers in High-Risk Areas:](https://github.com/muratko357/Aid-worker-security-incidents-analysis)
+#### [1.1. Mapping and Analyzing Security Incidents to Enhance the Safety of Humanitarian Aid Workers in High-Risk Areas](https://github.com/muratko357/Aid-worker-security-incidents-analysis)
 
 _Tools: Power BI, DAX, M, Python, GeoPy, Pandas, QGIS, Mapshaper_
 
@@ -98,7 +98,7 @@ _Note: The data points indicating incident locations are approximate rather than
 
 ---
  
-#### [1.2. Visualizing Rule of Law: A Dynamic Dashboard for Historical, Regional, and Country-Level Analysis:](https://github.com/muratko357/Rule_of_Law_Dashboard)
+#### [1.2. Visualizing Rule of Law: A Dynamic Dashboard for Historical, Regional, and Country-Level Analysis](https://github.com/muratko357/Rule_of_Law_Dashboard)
 
 _Tools: Power BI, DAX_
 
@@ -134,7 +134,7 @@ The Rule of Law Dashboard enables dynamic comparisons across countries and regio
 
 ---
 
-#### [1.3. Inventory Management Dashboard:](inventory_management_dashboard.pbix)
+#### [1.3. Optimizing Inventory: A Power BI Dashboard for Strategic Stock Management](inventory_management_dashboard.pbix)
 
 <img align="left" width="250" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Inventory%20dashboard.png"/> 
 
@@ -154,14 +154,14 @@ The Inventory Turnover Ratio helps monitor the frequency with which inventory is
 #### Sales and Demand Trends:
 By analyzing historical sales trends, the dashboard supports better forecasting and inventory planning, ensuring that stock levels are aligned with actual market demand.
 
-#### Impact and Future Enhancements 
-This dashboard offers a robust framework for improving inventory management by focusing on key areas like ABC and XYZ analysis, inventory turnover, and reorder optimization. While based on historical data, the dashboard can be customized further to incorporate additional metrics, such as profit margins or advanced forecasting tools. By aligning inventory strategies with business goals, it supports data-driven decisions to enhance operational efficiency and responsiveness to market needs.
+#### Impact and Future Enhancements:
+This dashboard is a practical tool for improving inventory management, focusing on key areas such as ABC and XYZ classification, inventory turnover analysis, and reorder optimization. Its current functionality, based on historical data, can be further enhanced by refining reorder optimization to include profit margins and machine learning-based demand forecasting. By empowering businesses to make informed, data-driven decisions, the dashboard enhances operational efficiency, aligns stock levels with market demands, and supports a more strategic approach to inventory management.
 
 A downloadable version of the Power BI file is accessible [here](inventory_management_dashboard.pbix).
 
 ---
 
-#### [1.4. Minnesota Interstate Traffic Volume Analysis:](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+#### [1.4. Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 <img align="left" width="250" height="160" alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Minnesota_interstate_traffic_volume.png"/> 
 
@@ -171,7 +171,7 @@ As the capstone project for the Google Business Intelligence Professional Certif
 
 ---
 
-#### [1.5. Creating a Dashboard with Python: Airline Flights Performance:](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)
+#### [1.5. Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)
 
 <img align="left" width="250" height="150" alt="Airline Flights Performance" style="margin: 0 10px 0 0;" src="Images/dashboard.png"/>
 
@@ -183,7 +183,7 @@ The dashboard features dynamic filtering by year and report type, enabling users
 
 ---
 
-#### [1.6. Uber Data Analysis:](https://github.com/muratko357/Uber-data-analysis)
+#### [1.6. Uber Data Analysis](https://github.com/muratko357/Uber-data-analysis)
 
 <img align="left" width="250" height="140" alt="Uber Data Analysis" style="margin: 0 10px 0 0;" src="Images/Uber%20data%20analysis.png"> 
 
@@ -195,7 +195,7 @@ For more details, view the project [documentation.](https://github.com/muratko35
 
 ---
 
-#### [1.7. Analysis of the Dataset for California Electoral Politics:](https://arcg.is/vOr9v)
+#### [1.7. Analysis of the Dataset for California Electoral Politics](https://arcg.is/vOr9v)
 
 <img align="left" width="250" height="170" alt="California Electoral Politics" style="margin: 0 10px 0 0;" src="Images/California_electoral_politics_2012 screenshot.png"> 
 
@@ -207,7 +207,7 @@ View the map layout in PDF format [here](https://github.com/muratko357/muratko35
 
 ---
 
-#### [1.8. San Francisco Crime Data Analysis:](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)
+#### [1.8. San Francisco Crime Data Analysis](https://github.com/muratko357/San-Francisco-Crime-Data-Analysis)
 
 <img align="left" width="250" height="150" alt="San Francisco Crime Data Analysis" style="margin: 0 10px 0 0;" src="Images/San Francisco Crime Map.png"> 
 
@@ -225,7 +225,7 @@ For more details, view the project [documentation.](https://github.com/muratko35
 
 ### 2. Machine Learning and Deep Learning Projects
 
-#### [2.1. Weather Prediction:](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)
+#### [2.1. Weather Prediction](https://github.com/muratko357/Weather-prediction/blob/main/Weather%20prediction.ipynb)
 
 <img align="left" width="250" height="150" alt="Weather Prediction" style="margin: 0 10px 0 0;" src="Images/rain.jpg"/> 
 
@@ -239,7 +239,7 @@ For more details, view the [Python script.](https://github.com/muratko357/Weathe
 
 ---
 
-#### [2.2. LendingClub Data Analysis: Predicting Payments:](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)
+#### [2.2. LendingClub Data Analysis: Predicting Payments](https://github.com/muratko357/ML_models/blob/master/Decision_Tree_and_Random-Forests_Project.ipynb)
 
 <img align="left" width="250" height="160" alt="LendingClub Data Analysis" style="margin: 0 10px 0 0;" src="Images/LendingClub project.png"> 
 
@@ -251,7 +251,7 @@ For more details, view the [Python script.](https://github.com/muratko357/ML_mod
 
 ---
 
-#### [2.3. Bank Note Authentication:](https://github.com/muratko357/ML_models/blob/master/banknote-authentication.ipynb)
+#### [2.3. Bank Note Authentication](https://github.com/muratko357/ML_models/blob/master/banknote-authentication.ipynb)
 
 <img align="left" width="250" height="150" alt="Bank Note Authentication" style="margin: 0 10px 0 0;" src="Images/banknote-authentication.jpeg"> 
 
@@ -263,7 +263,7 @@ For more details, view the [Python script](https://github.com/muratko357/ML_mode
 
 ---
 
-#### [2.4. Art Generation with Neural Style Transfer:](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Art_Generation_with_Neural_Style_Transfe.ipynb)
+#### [2.4. Art Generation with Neural Style Transfer](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Art_Generation_with_Neural_Style_Transfe.ipynb)
 
 <img align="left" width="250" height="150" alt="Art Generation with Neural Style Transfer" style="margin: 0 10px 0 0;" src="Images/generated_image.jpg"> 
 
@@ -275,7 +275,7 @@ For more details, view the [Python script.](https://github.com/muratko357/Buildi
 
 ---
 
-#### [2.5. Car Detection for Autonomous Driving Application:](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Autonomous_driving_application_Car_detection.ipynb)
+#### [2.5. Car Detection for Autonomous Driving Application](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Autonomous_driving_application_Car_detection.ipynb)
 
 <img align="left" width="250" height="150" alt="Car Detection for Autonomous Driving Application" style="margin: 0 10px 0 0;" src="Images/car detection.png"> 
 
@@ -287,7 +287,7 @@ For more details, view the [Python script.](https://github.com/muratko357/Buildi
 
 ---
 
-#### [2.6. Face Verification & Face Recognition:](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)
+#### [2.6. Face Verification & Face Recognition](https://github.com/muratko357/Building_Convolutional_Neural_Networks/blob/master/Face_Recognition.ipynb)
 
 <img align="left" width="250" height="150" alt="Face Verification & Face Recognition" style="margin: 0 10px 0 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvMWEs2FveiYw9UMIY1RK54QQCcLimSG0lbjvuKJU3kCaTgY4wz613Vxzk8D6RTEXERc&usqp=CAU"> 
 
@@ -306,7 +306,7 @@ For more details, view the [Python script.](https://github.com/muratko357/Buildi
 ---
 ### 3. Web-scraping and NLP Projects
 
-#### [COVID-19 Group Project-Part II: Creating an Automatic Web-Scraping and Text Summarization Tool:](https://github.com/muratko357/NLP_coronavirus_project)
+#### [COVID-19 Group Project-Part II: Creating an Automatic Web-Scraping and Text Summarization Tool](https://github.com/muratko357/NLP_coronavirus_project)
 
 <img align="left" width="250" height="150" alt="COVID-19 Group Project" style="margin: 0 10px 0 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpsU5BDHW2JysQldmMy0XtNFrRglTInR302w&usqp=CAU"> 
 
