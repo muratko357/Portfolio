@@ -34,9 +34,7 @@ _**a) Interactive Power BI Dashboard**_
   
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents global overview.png"/> 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents EM view.png"/> 
-
 <br clear="left"/>
-
 <br/>
 
 _**b) Custom QGIS Map Visualization**_
