@@ -22,7 +22,7 @@ Feel free to contact me for collaboration or further discussion:
 
 _Tools: Power BI, DAX, M, Python, GeoPy, Pandas, QGIS, Mapshaper_
 
-This project presents a two-page interactive Power BI dashboard and a complementary QGIS map visualization (PNG) that analyze security incidents involving humanitarian aid workers from 1997 to 2024. By integrating advanced data modeling, geospatial analysis, and dynamic visualizations, the project offers actionable insights for security managers, analysts, and humanitarian organizations.
+This project features a two-page interactive Power BI dashboard and a complementary QGIS map visualization (PNG) analyzing security incidents affecting humanitarian aid workers (killed, wounded, or taken hostage) from 1997 to 2024. By integrating advanced data modeling, geospatial analysis, and dynamic visualizations, it provides actionable insights for security managers, analysts, and humanitarian organizations.
 
 #### _1.1.1. Key Features_
 
