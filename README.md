@@ -154,8 +154,6 @@ By analyzing historical sales trends, the dashboard supports better forecasting 
 #### Impact and Future Enhancements:
 This dashboard is a practical tool for improving inventory management, focusing on key areas such as ABC and XYZ classification, inventory turnover analysis, and reorder optimization. Its current functionality, based on historical data, can be further enhanced by refining reorder optimization to include profit margins and machine learning-based demand forecasting. By empowering businesses to make informed, data-driven decisions, the dashboard enhances operational efficiency, aligns stock levels with market demands, and supports a more strategic approach to inventory management.
 
-A downloadable version of the Power BI file is accessible [here](inventory_management_dashboard.pbix).
-
 ---
 
 #### [1.4. Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
