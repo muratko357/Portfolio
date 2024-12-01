@@ -92,7 +92,6 @@ _Note: The data points indicating incident locations are approximate rather than
 
 📂 Explore the [repository](https://github.com/muratko357/Aid-worker-security-incidents-analysis) for QGIS map, Power Query M code, DAX measures, and Python scripts.
 
-📊 Download the Dashboard, the Power BI file is accessible [here](https://github.com/muratko357/Aid-worker-security-incidents-analysis/blob/main/Dashboard%20aid%20worker%20security%2020241122.pbix).
 
 ---
  
