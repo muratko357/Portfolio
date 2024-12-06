@@ -101,8 +101,8 @@ _Tools: Power BI, DAX_
 
 This interactive Power BI dashboard utilizes the V-Dem Dataset (Varieties of Democracy) to examine the Rule of Law Index and related indicators across global nations from 1789 to 2023. Through advanced DAX calculations, it provides dynamic insights into historical trends, including judicial independence, access to justice, and the predictability of legal enforcement. By offering perspectives on governance evolutions at regional and national scales, the dashboard empowers researchers, policymakers, and security analysts to explore institutional resilience, societal stability, and the trajectory of democratic development.
 
-<img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/RL-Main_page.png"/> 
-<img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/RL-Drill_through_page.png"/> 
+<img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Main_page.png"/> 
+<img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Drill_through_page.png"/> 
 <br clear="left"/>
 <small style="color:gray; font-size: 0.8em;"><em>Screenshots: Main and Drill through pages</em></small>
 <br clear="left"/>
@@ -126,8 +126,6 @@ Tooltips and dynamic text boxes provide definitions and detailed explanations fo
 The Rule of Law Dashboard enables dynamic comparisons across countries and regions, revealing historical and contemporary trends that inform discussions on security, institutional integrity, and democratic resilience. The tool supports informed decision-making, fosters regional understanding, and highlights the rule of law's critical role in advancing democratic governance and societal stability.
 
 📂 Explore the [repository](https://github.com/muratko357/Rule_of_Law_Dashboard) for additional information and DAX measures.
-
-📊 Download the Dashboard, the Power BI file is accessible [here](https://github.com/muratko357/Rule_of_Law_Dashboard/blob/main/Rule_of_Law_Dashboard-Compare_Countries_1789-2023.pbix)
 
 ---
 
