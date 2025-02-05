@@ -30,11 +30,11 @@ _**a) Interactive Power BI Dashboard**_
 <br clear="left"/>
 **Global Overview (1997–2024):** A dynamic visualization showcasing global trends in security incidents. This page uses bubble maps to plot incident locations by latitude and longitude, where bubble size and color represent the severity of victim counts (aid workers). Users can interactively filter incidents by year, organization, casualty type, and demographic variables to gain a high-level understanding of patterns worldwide.
 
-**East Mediterranean Humanitarian Corridor (2012–2024):** A detailed analysis of provincial-level incidents within the East Mediterranean region (Israel, Palestine, Lebanon, and Syria). This page leverages custom shape maps, enriched with victim count data at the province level. Interactive slicers provide insights tailored to specific humanitarian organizations and casualty types, enabling decision-makers to focus on regional challenges.
-  
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents global overview.png"/> 
-<img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Aid workers security incidents EM view.png"/> 
-<br clear="left"/>
+
+**East Mediterranean Humanitarian Corridor (2012–2024):** A detailed analysis of provincial-level incidents within the East Mediterranean region (Israel, Palestine, Lebanon, and Syria). This page leverages custom shape maps, enriched with victim count data at the province level. Interactive slicers provide insights tailored to specific humanitarian organizations and casualty types, enabling decision-makers to focus on regional challenges.
+
+  
 <br/>
 
 _**b) Custom QGIS Map Visualization**_
@@ -102,10 +102,6 @@ _Tools: Power BI, DAX_
 This interactive Power BI dashboard utilizes the V-Dem Dataset (Varieties of Democracy) to examine the Rule of Law Index and related indicators across global nations from 1789 to 2023. Through advanced DAX calculations, it provides dynamic insights into historical trends, including judicial independence, access to justice, and the predictability of legal enforcement. By offering perspectives on governance evolutions at regional and national scales, the dashboard empowers researchers, policymakers, and security analysts to explore institutional resilience, societal stability, and the trajectory of democratic development.
 
 <img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Main_page.png"/> 
-<img align="left" width="240" height="160"  alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Drill_through_page.png"/> 
-<br clear="left"/>
-<small style="color:gray; font-size: 0.8em;"><em>Screenshots: Main and Drill through pages</em></small>
-<br clear="left"/>
 
 #### Historical Trends Analysis:
 Visualizes the evolution of governance indicators, such as access to justice and judicial independence, enabling users to track trends over centuries. EU expansion is highlighted with dynamically updated information as users hover over specific years.
@@ -154,13 +150,13 @@ This dashboard is a practical tool for improving inventory management, focusing 
 
 ---
 
-#### [1.4. Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+#### [1.4. Minnesota Interstate Traffic Volume Analysis](https://public.tableau.com/app/profile/murat.kocak/viz/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/DashboardTrafficVolume)
 
 <img align="left" width="250" height="160" alt="Inventory Dashboard" style="margin: 0 10px 0 0;" src="Images/Minnesota_interstate_traffic_volume.png"/> 
 
 _Tools: Google Cloud, Google DataFlow, Google BigQuery, Tableau_
 
-As the capstone project for the Google Business Intelligence Professional Certificate, this analysis showcases my expertise in building BI solutions, data pipelines, and interactive visualizations. The project involved developing a detailed BI project plan, constructing a data pipeline via Google DataFlow to transport data to BigQuery, and creating a Tableau dashboard that visualizes Minnesota interstate traffic volume. The dashboard also explores the effects of weather, holidays, and time of day on traffic patterns, providing insights into the best times for road maintenance and construction. [View Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/Minnesota?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+As the capstone project for the Google Business Intelligence Professional Certificate, this analysis showcases my expertise in building BI solutions, data pipelines, and interactive visualizations. The project involved developing a detailed BI project plan, constructing a data pipeline via Google DataFlow to transport data to BigQuery, and creating a Tableau dashboard that visualizes Minnesota interstate traffic volume. The dashboard also explores the effects of weather, holidays, and time of day on traffic patterns, providing insights into the best times for road maintenance and construction. [View Dashboard](https://public.tableau.com/app/profile/murat.kocak/viz/GoogleBusinessIntelligenceCarrierCertificateMinnesotaTrafficVolume/DashboardTrafficVolume)
 
 ---
 
